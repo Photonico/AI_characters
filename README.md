@@ -1,4 +1,4 @@
-AI Characters
+# AI Characters
 
 AI characters by Photonico, adapted from ZipZipPipe by Bilibili.
 
