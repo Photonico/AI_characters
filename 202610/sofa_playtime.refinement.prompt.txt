@@ -1,0 +1,41 @@
+Edited with built-in image_gen. The backend model is not exposed by the tool.
+Final output: 202610/sofa_playtime.png (overwritten).
+Latest accepted requirements: Harness black clothing/tail; clean texture; correct seated leg anatomy; openwork OpenAI logo ornaments.
+Official logo source: https://cdn.openai.com/brand/openai-logos.zip
+
+FINAL EDIT PROMPT
+
+Edit IMAGE 1. The upper scene is approved; repair the entire seated leg construction on the LEFT and make the existing OpenAI emblems physically hollow. IMAGE 2 supplies the exact official logo silhouette. Preserve all other content, including the BLACK Harness outfit and tail.
+
+LEG RECONSTRUCTION — do not copy the erroneous knee-to-slipper anatomy in image 1.
+Rebuild the lower-body pose of adult GPT and little Codex, only within the left lower quarter under the adult's embracing arm. Keep Codex's face, torso, arms, and play gesture unchanged.
+Adult GPT is a full-size woman seated securely on the sofa, her hips on the cushion. Her two adult thighs angle naturally forward to her knees, making a believable lap. Her long white-lavender gown follows the seated thighs, knees and downward calves with coherent folds and natural volumes.
+Little Codex sits firmly SIDEWAYS across GPT's lap, her pelvis resting on the adult's supported thighs. Give Codex a fresh simple physically correct leg pose: BOTH child-proportioned thighs are supported on the lap, BOTH knees bend comfortably at its front, and TWO complete calves hang naturally next to each other toward the front of the sofa. The legs do NOT cross. Each visible leg has an anatomically coherent thigh, small knee, calf of appropriate child proportions, tapered ankle and foot. The two calves have matching natural lengths and widths. Show actual lower-leg length between the knee and the ankle, not a knee attached directly to a shoe. No oversized bulbous knees, no stumps, no extra flesh islands. Each foot wears exactly one of her existing white cloud slippers; slippers attach only at the ends of feet, with no skin continuing below them.
+The two bare legs and two slippers belong ONLY to the child. The adult's full-size legs remain distinct underneath the white floor-length gown, visible by correct drape and seated form, with no exposed adult calf merged into a child leg. The gown extends naturally down out of frame. Preserve Codex's small dragon tail curling to the left, without covering both legs.
+Prioritize physically believable seated anatomy over copying the original leg shape; this local area is explicitly authorized to be redrawn. Everything above the lap and all of the right half remains unchanged.
+
+PRESERVE EXACTLY: all four people, all faces and emotions, heads/hair, upper body proportions, embracing arms and cheek-poking action; warm sunlit room, sofa/cushions, empty foreground, framing. Harness's black hair, burgundy-red iris, black sleeves/dress panels/shoes/small tail and black whale emblem remain; her white apron/lace and gold trim remain. Adult DeepSeek stays blue and has only her fin ears, no human ears. Do not modify her body or legs.
+Finish: clean smooth texture, no grain, no noise, no tiling artifacts, no dirty texture, natural skin texture expressed as subtle clean anime shading, high clarity, clean lighting. Preserve original daylight and warm palette, do not blur linework or introduce photographic pores. No text or watermark.
+
+PRECEDING HARNESS RECOLOR AND TEXTURE PROMPT
+
+Edit the supplied illustration with extremely strict preservation. The user loves this exact picture. Make only the following localized recoloring and subtle surface-cleanup changes. Everything else must remain visually identical: composition, crop, resolution/aspect, poses, expressions, all faces, anatomy, hands, hugging and play, garment shapes, white lace, accessories, hair shapes, background, sunlight direction, sofa and empty foreground.
+
+LOCAL RECOLOR:
+DeepSeek Harness is the SMALL BLACK-HAIRED, DARK-RED-EYED character at center-right sitting on the blue-haired adult woman's lap.
+Change the small Harness character's navy/blue clothing panels, sleeves, skirt fabric and dark shoes to neutral BLACK, with natural charcoal-gray highlights and deep black shadows, not navy, not purple. Preserve all existing white apron, white blouse inserts, white lace, socks and small gold trim details exactly. Make the blue whale emblem on her white apron a BLACK whale emblem, identical shape. Her small blue costume ribbon and blue outfit jewel should become matching black/charcoal while retaining exact shape and detail.
+Change ONLY Harness's SMALL whale tail to black with charcoal highlights: this is the short tail curving rightwards across the adult's lap, near the little one's hips and legs, around x=1200–1380, y=605–703 in the 1672x941 original. Same precise tail shape, flukes, location and scale, only color changes. DO NOT recolor the adult DeepSeek's much larger blue whale tail at the far right background; that large tail stays blue. Adult DeepSeek's hair, outfit and blue accessories stay completely untouched.
+Keep Harness's existing black hair and dark burgundy-red iris unchanged.
+
+SURFACE FINISH ONLY:
+clean smooth texture
+no grain
+no noise
+no tiling artifacts
+no dirty texture
+natural skin texture
+high clarity
+clean lighting
+Interpret these as a restrained cleanup of this SAME anime illustration: remove grain/noise/dirty surface artifacts without adding photographic pores, without plastic skin, without blurring delicate linework, and without destroying natural gentle skin shading. Preserve original beautiful warm sunlight, colors outside the specified small-character recolor, tonal balance and soft natural material shading. No new visual effects, no relighting, no redesign.
+
+Absolutely do not add, remove or move any other content. Retain the corrected OpenAI knot head ornaments, absence of human ears on adult DeepSeek, the cleared foreground, and both adults embracing their small companions. No captions, no watermark.
