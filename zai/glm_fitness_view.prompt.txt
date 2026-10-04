@@ -1,0 +1,22 @@
+Output: zai/glm_fitness_view.png
+Generation mode: built-in image_gen tool, reference-based edit
+References:
+- zai/glm_mature_view.png (GLM identity)
+- deepseek/deepseek_fitness_view.png (adult body and outfit style)
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-9eea4bae-85a0-4d88-90fa-713cf31146be.png
+Transparent background: false
+All fitness characters are adult.
+
+Prompt:
+Create one polished anime character design turnaround sheet titled only by the saved filename glm_fitness_view.png (no text on the artwork). Landscape white background, three separate full-body views ordered FRONT, exact LEFT-FACING SIDE PROFILE, and BACK. Match the rendering quality, clean linework, soft color shading, and uncluttered layout of the supplied character sheets. All three show the SAME ADULT WOMAN, age 25 or older, at the same scale, with aligned head heights and feet, every ear and tail and shoe fully inside the canvas. Neutral relaxed standing pose, arms gently away from the torso, empty hands.
+
+REFERENCE ROLES: Image 1, glm_mature_view.png, establishes GLM's identity, face, hair, ears, tail, palette, and small Z accessories. Image 2, deepseek_fitness_view.png, establishes the adult body proportions and compact maid-inspired fitness outfit silhouette ONLY. Do not copy DeepSeek's blue hair, whale anatomy, face, or whale logo.
+
+GLM IDENTITY: retain the adult GLM woman's dark charcoal-black very long mostly straight hair with subtle deep blue underside and tapered blue highlights, soft gray-blue eyes, black broad pointed animal ears with small white inner fur, a white ruffled maid headband, and the small black sleep mask perched on her forehead with white closed-eyelash graphics. Retain a compact square black Z badge on the headband and a small dark neck bow with a Z emblem. Her substantial furry animal tail must stay black/charcoal with a clear white tip, like image 1, with a natural relaxed curve. Keep the same tail length and thickness consistently across views. Do not turn it into a whale tail or short-haired cat tail. Calm composed expression with a subtle closed-mouth smile; clearly adult face and adult proportions.
+
+BODY: model the height and physique on image 2: tall, long legs, approximately 7.5-head adult proportions, naturally full athletic thighs and calves, a balanced feminine silhouette, normal-width shoulders and moderately toned arms. A healthy trained body with a faint subtle abdominal muscle contour visible in the exposed midriff. Do not exaggerate muscle definition or widen hips until she looks squat. No bodybuilder bulk.
+
+OUTFIT: reinterpret DeepSeek's compact black-and-white maid-inspired fitness outfit for GLM. An opaque supportive white cropped athletic bra/top with modest gathering and a clean fitted black underbust band, small neat white edge trim, no corset or waist cincher; the abdomen remains visible. A short black pleated mini skirt with a narrow white ruffled hem and a small white apron panel on the front, bearing a discrete black Z emblem instead of any whale symbol. The skirt hangs naturally over the hips, covering the pelvis fully in front, side and rear; no visible undergarments. White and black compact Mary Jane shoes or light training shoes inspired by image 2, no long socks. Bare shoulders, bare arms, bare legs. Remove the original long dress, long sleeves, puff sleeves, shoulder frills, sleeve bows, waist belts, corset, hanging books/tablets, chains, pendant trains, and oversized rear bows. Keep only the headband/mask, small head Z badge and compact neck bow as identity accents. Use black, white and restrained deep slate-blue accents.
+
+REAR HAIR GEOMETRY: in the BACK view the thick long black hair is outside and in front of the back/shoulder silhouettes from the viewer's perspective, naturally spreading widely enough to completely cover BOTH shoulders and BOTH entire upper arms down to the elbows; only the forearms and hands emerge below the hair at the sides. Hair must not be hidden behind the torso, must not be cut short, and must remain GLM's mostly straight flowing hair, not DeepSeek's wavy blue hair. Back headband and ears remain visible. Maintain identical outfit construction, body height, hair length and tail attachment in all three views. Correct side-view anatomy with one coherent torso, natural arm attachment, matched shoe orientation. No props, no captions, no watermark.
+
