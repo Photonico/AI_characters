@@ -1,84 +1,33 @@
-Generator: built-in image_gen
-Reference image 1: alibaba/qwen_mature_view.png
-Reference image 2: deepseek/deepseek_fitness_view.png (latest natural fitness revision)
-Generated image: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-201bd4cf-3f27-48f6-bdaa-ebeaefdbdf15.png
-Final output: alibaba/qwen_fitness_view.png
+Qwen fitness _s hair correction
 Date: 2026-10-05
+Mode: built-in image_gen.imagegen edit (not CLI; no Python image editing)
+Use case: precise-object-edit
+Edit target and sole generation reference: /Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view.png
+Original input SHA-256: 70c2a2046e3fd3fbb81044d8a64f46f0d62783a56bef8d9c54622934b6cc0379
+Supporting visual inspection only (not passed to generation): /Users/lu/Repos/AI_characters/alibaba/qwen_mature_view.png
+transparent_background: false
+Generation source: /Users/lu/.codex/generated_images/01a108a5-0829-73b3-a929-58dbe2df7d5d/exec-a5f0d215-9085-498c-9a28-bac98dd68707.png
+Saved destination: /Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view.png
+Generation source / saved image SHA-256: 59bdd798cf5c05d6a12ff1034a3295ddeb52442beed0a7ef2d1f722d4586ba48
+Image format and dimensions: PNG, 1672 x 941, RGB, 8-bit, non-interlaced
 
-Use case: identity-preserve / stylized-concept.
-Create a FITNESS three-view turnaround of the ADULT Qwen woman, preserving her strongly Chinese-inspired identity.
-INPUT ROLES: Image 1 is the authoritative Qwen identity reference in elaborate purple Chinese attire. Image 2 is only a body/proportion/layout reference for natural, tall female fitness anatomy. Do not copy the second character's blue hair, maid outfit, animal features or tail.
+QA observations:
+- Side view visibly restores the substantial segmented braid over the near-camera shoulder and in front of the chest/ribs.
+- Loose wavy hair is gently narrower with fewer large outward curls, and tips are slightly shorter while remaining long.
+- Back crown braid preserves the full connected V; the loose hair curtain remains the outer layer over the shoulders and back.
+- Front braid, cool blue-violet palette, face/body proportions, single collar clasp, chest/hat Qwen badges, hat, original _s outfit panel/slit silhouettes, skirt length, sneakers, poses, shadows, and white three-view composition are visually retained.
+- Source and copied destination are byte-identical as verified by SHA-256.
 
-IDENTITY: clearly adult woman in her mid-twenties, recognizable Qwen gentle mature face with TWO violet eyes, long cool periwinkle/blue-violet hair (not pink-purple), braided crown along the sides/back meeting in a distinctive V on the back of the head, a thick front side braid on her anatomical LEFT side, and abundant loose flowing purple waves. Preserve the small purple-and-gold tilted circular head ornament with the Qwen symbol and compact matching earrings. No cat ears, whale ears, tail, blue hair or heterochromia. Keep her characteristic lavender/royal-purple and refined gold accents.
+Exact prompt submitted:
+Use case: precise-object-edit.
+Asset type: Qwen adult character front / left-facing side / back three-view illustration sheet.
+Input image 1 is the ONLY EDIT TARGET: qwen_fitness_view.png. Use this exact image as the base. This is an adult woman aged 25 or older with natural adult anatomy.
 
-PHYSIQUE: naturally fit and tall, approximately 7.5-head adult proportions, long thighs and calves, moderately full firm legs, proportionate hips, softly toned shoulders and arms, natural healthy waist. Keep muscle volume restrained with subtle natural contour, no bulky bodybuilding muscles or etched muscle blocks. Her abdomen is firm and gently toned, only subtly suggested beneath opaque dress fabric. Preserve a natural chest size and smooth anatomy. Consistent height, shoulder width, hip width and leg volume in all three views.
+Primary request: Edit ONLY her HAIR in all three views. Preserve everything else precisely. Keep the same cool blue-violet hair color, bangs, crown braid, front thick braid identity, long loose wavy hairstyle and original hat. The side-view thick braid is currently missing: restore it clearly.
 
-CLOTHING: a stylish, alluring and elegant WHITE QIPAO (cheongsam), distinctly Chinese rather than a generic white minidress. Sleeveless fitted opaque pearl-white satin/technical silk fabric, a classic Mandarin collar, refined diagonal Chinese placket and a few delicate lavender-and-gold frog closures. A clean fitted short qipao hem above the knees, with HIGH SIDE SLITS rising to the upper thighs on both sides to show her naturally strong legs. Keep solid opaque front and rear panels with complete torso and hip coverage; functional matching fitted shorts lining can remain concealed for coverage. The design should have a sleek mature silhouette, visible bare shoulders/arms and long legs, with subtly lustrous material rather than transparency. Add very sparse pale lavender floral/cloud embroidery or a fine gold Chinese geometric border, and a small integrated Qwen emblem; let the WHITE fabric dominate. No broad waist belt, separate corset, cinching straps or belly-covering accessories beyond the qipao itself. No sleeves, oversized shoulder drapes, outer robe, cloak, long loose ribbons, dangling chains or tassel clusters. Empty hands: remove the fan and handbag. Keep only the small neat head ornament and restrained earrings for recognition.
-Footwear: simple compact lavender-and-white athletic court shoes with a tiny gold/Chinese-knot detail, suitable to her fitness interpretation; no heavy boots or large dangling shoe decorations.
+Most critical change, MIDDLE LEFT-FACING SIDE VIEW: show the SAME thick three-strand braid that appears on the anatomical LEFT side of her body (viewer RIGHT in the front view). The middle figure presents that near-camera left side. The braid must emerge naturally beside the left ear/crown and pass OVER and IN FRONT OF her near-camera left shoulder, then hang on the FRONT side of the shoulder/chest along the visible chest/rib area. Draw a substantial continuous braid with large, unmistakable interwoven plait segments, ending around the lower chest / upper rib area with a small tie and a short tail. The braid is clearly separate from the loose hair behind her back. Do not render only a tiny loose lock or only the head-crown braid. Keep the neckline clasp and chest emblem visible beside the braid.
 
-REAR HAIR LAYERS: preserve her long loose purple waves and back crown braid. In the back view, hair lies as a natural foreground curtain over her back and completely covers BOTH shoulders and BOTH upper arms down to the elbows; only the lower forearms/hands emerge outside or below the waves. No skin/body incorrectly painted on top of long hair. Keep the hair length and identity, with natural flow and depth. The front side braid remains recognizable in front/profile.
+ALL THREE VIEWS: gently reduce the loose hair's total volume by approximately 15-20 percent. Reduce the width of outward-splaying large curls and give the main hair curtain a naturally hanging shape, with elegant soft waves. Retain substantial long hair and visible layered waves. Shorten the loose hair tips by ONLY approximately 5-10 percent of their current length, a little bit shorter than the existing upper-hip endpoints, still reaching the lower back / waist-to-upper-hip area. Do not make a drastic length change and do not turn it into short hair. The front thick braid remains prominent and essentially the same length. Preserve the complete V-shaped crown braid in the BACK view; preserve the left and right connected plaits forming its full V at the back of her head. In the back view the loose hair is the outer visible layer covering the shoulders and back, never incorrectly occluded by torso or clothing.
 
-LAYOUT: exactly three separate complete depictions of the SAME adult Qwen, left-to-right FRONT, true LEFT-facing SIDE PROFILE, BACK. Neutral upright relaxed standing with arms gently away from body, empty hands and natural feet, no provocative poses. Identical scale and anatomy, aligned head tops and soles. Every hair tip, finger and shoe visible inside the frame, clean spacing and generous margins. White background, faint grounding shadows, no text, labels, extra characters or objects. Polished detailed 2D anime rendering matching the original Qwen reference, delicate linework, soft cel shading and tasteful satin highlights. Wide landscape professional character turnaround.
-
-Final revision 1 - Return to original angular opening, collar button only, matching Qwen emblems
-Input: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-201bd4cf-3f27-48f6-bdaa-ebeaefdbdf15.png
-Supporting logo reference: alibaba/qwen_mature_view.png
-
-Use case: precise-object-edit / identity-preserve.
-Edit the supplied ADULT Qwen fitness reference. Image 1 is the user's SELECTED FINAL CHEST-OPENING DESIGN; use it as the exact garment/shape source. Image 2 (ordinary Qwen) is a supporting reference for the correct Qwen emblem on her medallions.
-
-Restore/preserve EXACTLY the broad angular chest-window design from Image 1, with its original low angular/deep-V lower boundary and collar structure. Do not replace it with an oval or make it smaller. Retain its original graceful exposed upper-chest/cleavage contour and opaque fitted fabric coverage. Fix the side view so it shows the same garment opening physically foreshortened over the front of the torso: continuous cloth surrounding the same opening, no floating trim, no duplicated edge, no mismatched collar or extra strap. Preserve original bust size and adult anatomy.
-
-FASTENERS: keep ONLY ONE functional Chinese frog fastening at the MANDARIN COLLAR ABOVE the chest window. REMOVE every other frog button, knotted fastening and connecting cord from the chest opening, diagonal front placket, abdomen, waist and the two side-slit tops. Leave clean fabric seams and trim where those decorative fasteners used to be. No button, knot, gold cord or strap crosses the chest window. No fasteners on its lower edge or sides. The retained collar fastening stays strictly at the throat above the opening. No other frog buttons elsewhere on the qipao.
-
-QWEN EMBLEMS: retain the small decorative medallion on the chest and the medallion on the tilted purple hat as IDENTITY BADGES, distinct from removed frog fasteners. BOTH medallions must display the SAME accurate Qwen angular interwoven white emblem visible on Image 2's purple head badge: a crisp interlocking geometric Qwen mark centered on a purple round field with a fine gold rim. Match the source symbol exactly; do not replace it with a generic flower, plain star, snowflake or arbitrary glyph. The chest emblem and hat emblem are visibly identical. Keep their compact sizes and existing placements.
-
-Preserve all else from Image 1: violet eyes, cool blue-violet waves, side braid and back V-shaped braided crown, small tilted hat, earrings, tall natural fitness anatomy, smooth full legs, sleeveless pearl-white high-side-slit short qipao, pale lavender floral embroidery, gold edging, shoes and neutral pose. Long rear hair covers shoulders and upper arms. Exactly three complete full-body views front / left-facing side / rear, aligned height, clean white background, no text, no cropping, same polished anime linework and soft cel shading.
-
-Final revision 2 - Short martial-arts qipao over athletic shorts, modestly stronger legs (FINAL)
-Input: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-e23da5b8-1fd9-49ea-863f-63db39c5f077.png
-Final generated image: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-116abc7e-b234-4427-836e-419745349473.png
-
-Edit the supplied adult Qwen character-design turnaround into a polished Chun-Li-inspired martial-arts FITNESS cosplay variant. She is an adult woman in her mid-twenties.
-
-Preserve the current neckline and large angular chest keyhole EXACTLY, without enlarging it further or changing chest anatomy. Keep the single collar frog fastening and the identical purple Qwen badge at chest and hat; no other torso buttons or cords.
-Dress change: make a practical WHITE MINI-QIPAO OVER WHITE FITTED ATHLETIC SHORTS. The shorts are an integral, clearly opaque sports garment fully covering the hips and upper thigh, with a flat clean horizontal sports-short hem, not underwear styling. Shorten the existing qipao front and back fabric panels by a modest amount, around 10–15 percent, and raise the side slits slightly above their current position for martial-arts mobility. The full-coverage sports shorts must be visibly present within the high side slits, so no exposed hip gaps occur. Keep the dress visually elegant with Chinese collar, white fabric, gold edging and pale lavender floral embroidery. Preserve one small collar button only. No other fasteners, sheer panels or unnecessary accessories.
-Body change: increase her thighs moderately about 10 percent and calves about 5 percent for a natural martial artist's leg strength; smooth contours and soft mild tone rather than bodybuilding blocks. Maintain the already tall adult proportions, normal knee/ankle transitions, natural hip width, relaxed arms and same torso.
-Keep Qwen identity and current hairstyle exactly: cool blue-violet waves, left-front braid, rear crown braid, violet eyes, tilted purple-and-gold hat with Qwen badge, compact earrings, current white/lavender training shoes, and rear hair layering over shoulders/upper arms.
-Neutral technical full-body turnaround, same front / left-facing profile / back view, stable upright relaxed poses. Garment construction consistent in every view, including side perspective and shorts lining. Identical stature and anatomy, entire head/hair/feet within frame, white background and same polished 2D anime rendering. The finished image is a practical adult martial-arts costume sheet with complete opaque coverage, no provocative action or framing.
-
-Final revision 3 - Slightly lengthen complete qipao and remove visible athletic shorts (LATEST FINAL)
-Input reference: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-116abc7e-b234-4427-836e-419745349473.png
-Final generated image: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-d94aea7a-9871-469c-b58a-cceb4a1309da.png
-
-Create a conservative wardrobe correction for the provided adult Qwen character sheet.
-Make a complete opaque white sleeveless SHORT QIPAO as the sole visible garment, with proper continuous fabric covering her waist and hips. Lengthen its front and back panels modestly to upper-to-mid thigh, around 20 percent longer than the current small apron-like panels. Join the front and rear fabric over the entire side of each hip with a continuous opaque white side seam/panel, so the qipao is a coherent dress covering all hip surfaces. Side slits begin only BELOW that complete hip coverage, at the upper thigh, and open onto naturally bare legs; they do not extend into the pelvic/hip area. Keep the slit design and gold border tasteful and consistent in all views.
-There is no separate horizontal white sports-short hem: the qipao itself is the visible full-coverage outfit. Keep its white fabric opaque with gold edging and pale lavender flowers, and preserve the existing collar and neckline design unchanged.
-Do not change the adult Qwen character, her natural tall fitness figure, current slightly fuller thighs and calves, purple eyes, blue-violet flowing hair and braid, head ornament, matching Qwen badges at chest/hat, single collar frog fastener or training shoes. Keep no other frog buttons on the dress. Maintain the same neutral full-body front / left-facing side / back character-reference layout, with all figures fully visible, white backdrop and polished anime rendering.
-The resulting garment has MORE complete hip coverage than the input, with modestly longer front/rear fabric and closed upper side panels. No exposed intimate anatomy, underwear or provocative pose.
-
-Final revision 4 - Restore side braid, gently reduce hair volume and length (LATEST FINAL)
-Date: 2026-10-05
-Generator mode: built-in image_gen (precise-object-edit / identity-preserve)
-Input / exact edit target: /Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view.png (revision 3 before this overwrite)
-Identity hairstyle inspected: /Users/lu/Repos/AI_characters/alibaba/qwen_mature_view.png (not supplied to generator)
-Generated source: /Users/lu/.codex/generated_images/01a108a4-7d1c-7772-93bc-cf491f5d2c10/exec-3228b704-9114-4ff3-a659-69439f5cc00f.png
-Final project copy: /Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view.png
-Background: opaque white; transparent_background=false
-Referenced image paths: ["/Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view.png"]
-
-Exact generation prompt:
-Use case: precise-object-edit / identity-preserve.
-Asset type: adult anime character three-view turnaround, local hair correction.
-Input image 1 is the EXACT edit target, alibaba/qwen_fitness_view.png. Edit this image itself. Keep its particular clothing version and all non-hair details unchanged.
-
-Subject: the same clearly adult Qwen woman, age 25 or older, shown in FRONT, true LEFT-facing SIDE PROFILE, and BACK, on the same white background.
-
-CHANGE ONLY THE HAIR, consistently in all three views:
-1. Restore the missing thick hanging side braid in the CENTER left-facing profile. It is the SAME large braid visible on the character's anatomical LEFT side in the front view (viewer-right in that front view). In the left-facing profile, draw this braid prominently IN FRONT OF the near-camera shoulder, from beside the ear across the shoulder down alongside the upper chest to the rib area. It must be a substantial rope-like THREE-STRAND PLAIT, with clearly alternating large braided segments all the way down and a small restrained tied end. Match the front-view braid's thickness, blue-violet color, segmented weave and identity. Do not substitute loose strands or the small crown braid. Keep the existing front-view hanging braid recognizable.
-2. Reduce the loose-hair volume only moderately, by about 15–20 percent. Use a slightly narrower, more natural long wavy silhouette with fewer oversized outward loops and big curls in front, profile and back. It should still be abundant long WAVY hair with soft flowing strands, not thin or straight hair. Keep the same cool periwinkle / blue-violet hair hue and shading.
-3. Shorten the loose-hair tips ONLY A LITTLE, about 5–10 percent of their current long length, raising the lowest loose tips by a small distance from the existing upper-hip area. Keep unmistakably LONG hair reaching toward the lower back / waist-to-upper-hip zone. Do not turn it into medium or short hair, and do not drastically crop its length. The hanging braid should end naturally beside the chest/ribs as in the existing front view.
-4. Preserve the characteristic braided crown at both temples and the V-shaped woven crown at the back of her head. Preserve bangs, hat placement and recognizable hairstyle. In the back view, the long hair remains a foreground curtain lying OVER her back, shoulders and upper arms, with the lower forearms emerging naturally below it; do not paint skin/body over the hair. Keep natural layering and coherent anatomy.
-
-STRICT INVARIANTS: leave the adult natural fitness body, original face, violet eyes, expression, head size, arms, legs, stature, shoes and relaxed standing poses unchanged. Preserve the exact existing pearl-white short qipao construction, the chest's angular keyhole opening and its size, bust anatomy, gold trim, lavender floral embroidery, skirt length, side slits, opaque complete side-hip coverage, single frog fastening at the collar, Qwen medallions on the chest and purple tilted hat, earrings, colors and garment fit. Do not modify clothing, crop the image, add accessories, add a second braid, change the logos, or introduce shorts. Same three full-body figures, alignment, spacing, white background, faint ground shadows, existing polished 2D anime linework and soft cel shading. No text or labels. This is a small hair-only repair to the supplied image, not a redesign.
+STRICT INVARIANTS: Change hair only. Preserve the exact original faces, expression, eye shape, adult natural body proportions and silhouettes, breasts, waist, hips, thighs, arms, hands and legs. Preserve the exact existing white-and-lavender qipao-inspired outfit with gold edging, chest opening, current skirt length, THIS _s version's precise open side-slit outline and panel shapes, the single collar clasp, all fabric flower patterns, Qwen badge on chest and Qwen badge on hat, hat and earrings, purple-white sneakers, poses, full-body feet, three-view positions, white background, soft shadows, illustration style, linework and framing. Do not substitute a different fitness outfit. Do not add new accessories, buttons, body changes, text, labels, borders, watermarks, or additional figures. Match the source canvas proportions and composition.
 
