@@ -25,3 +25,28 @@ Correct the rear hair as a continuous natural curtain OVER her back: her very lo
 
 STRICTLY PRESERVE every other detail: adult Claude's cool rational face, amber eyes, small orange head-flower clip, current tall naturally fit physique, ivory/charcoal supportive sports bra, short black athletic skort with copper trim and lining, shoes, all front/profile clothing features, body dimensions, stances, scale, figure placement, white background and polished 2D anime rendering. Exactly three complete full-body front/side/rear figures, no cropping and no added text. The only visible revision should be correct continuous hair foreground coverage in the rear view.
 
+Hair revision - Wrist-level length and rear foreground layering (2026-10-05, LATEST FINAL)
+Generator: built-in image_gen
+Initial edit input: anthropic/claude_fitness_view.png
+Initial generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-c932dfb1-d88c-4c4e-8862-ca5fb3f730f2.png
+First hair-only prompt:
+Use case: precise-object-edit / identity-preserve.
+Edit only the HAIR of the supplied Claude FITNESS three-view character sheet. Keep the exact adult woman (age 25+), face, calm cool rational expression, copper-orange hair color, amber eyes, small orange sunburst hair accessory, athletic physique, current opaque ivory/charcoal athletic top, charcoal mini sports skirt, copper edging, sunburst emblems, shoes, all poses and the white-background front / left-facing side / rear layout unchanged.
+
+HAIR LENGTH IN ALL THREE VIEWS: her current long hair is too long. Shorten it to precisely the level of the WRIST JOINTS of her relaxed downward arms, where the forearm meets the hand. This is upper-thigh / wrist-height long hair, with the very lowest curled tip ending at that horizontal level. No hair extends below the wrists towards the fingertips or mid-thigh. Preserve the original natural flowing locks and subtle curl at the ends; this is still long hair. Maintain the same physical length and restrained volume in front, profile and rear.
+
+REAR-VIEW DEPTH CORRECTION: the main copper-orange hair must be the closest visible outer layer, lying over the exterior of the back, shoulders and upper arms from the rear camera's perspective. Draw a coherent thick hair curtain from the back of the head spreading naturally over BOTH shoulders and covering BOTH upper arms down to the elbows, then flowing down the back to wrist-height. The torso, upper arms, and athletic top must be behind the hair and must not cut in front of it or hide large side sections of the hair. Only the lower forearms and hands emerge naturally outside/below the hair. Keep the main locks visibly continuous, without gaps through which an incorrectly foreground torso or upper arm appears. This is a layer/occlusion correction, not extra hair length. Keep the skirt hem, legs, and existing body proportions unchanged.
+
+Front and side hair should retain physically natural placement for the same hairstyle and adjusted length; maintain existing front framing strands, but shorten any long strands that extend below wrist height. Exact same rendering quality, delicate anime linework, colors, complete full-body framing and aligned foot positions. Do not redesign any garment or enlarge anatomy. No new text, props, or other characters.
+
+Final length correction input: the initial generated source above
+Final generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-9d7ece8d-7c41-49d9-9d12-8254652cd9ce.png
+Final output: anthropic/claude_fitness_view.png
+Final prompt:
+Use case: precise-object-edit / identity-preserve.
+Make one small HAIR-LENGTH correction to this adult Claude fitness turnaround. Everything else, including the successful rear hair layering over the back and upper arms, stays exactly as in this input.
+
+The current lowest hair tips stop too HIGH, around the hips/elbows (approximately y=440 in this 1536x1024 image). The desired lowest hair tips must instead end at the actual WRIST JOINTS, where each downward forearm joins its hand, approximately y=515 to 525 in this same image. Lengthen the lower parts of the copper-orange hair by approximately 75-80 pixels vertically in EACH of the three views so that the very lowest natural curled tips align with the wrist joints. This corresponds to the level near the bottom of the existing skirt / top of the hands, not the elbow and not the fingertips. Add length only to the existing hair locks below the waist; retain their natural soft taper and restrained curls. The lengths must match in FRONT, LEFT-facing PROFILE and BACK. Do not extend past the wrists down towards the knees.
+
+Maintain the current foreground rear hair curtain that covers the torso, both shoulders and both upper arms, with only lower forearms/hands visible. Preserve all face, expression, hair color, hair accessory, skin, adult body proportions, opaque sports top, mini sports skirt, leggings absence, shoes, emblems, pose, white backdrop, rendering style, full-body framing and identical canvas layout unchanged. Do not move the hands or body to simulate the length correction. Only increase the lower hair length to precisely wrist height.
+

@@ -57,3 +57,28 @@ There is no separate horizontal white sports-short hem: the qipao itself is the 
 Do not change the adult Qwen character, her natural tall fitness figure, current slightly fuller thighs and calves, purple eyes, blue-violet flowing hair and braid, head ornament, matching Qwen badges at chest/hat, single collar frog fastener or training shoes. Keep no other frog buttons on the dress. Maintain the same neutral full-body front / left-facing side / back character-reference layout, with all figures fully visible, white backdrop and polished anime rendering.
 The resulting garment has MORE complete hip coverage than the input, with modestly longer front/rear fabric and closed upper side panels. No exposed intimate anatomy, underwear or provocative pose.
 
+Final revision 4 - Restore side braid, gently reduce hair volume and length (LATEST FINAL)
+Date: 2026-10-05
+Generator mode: built-in image_gen (precise-object-edit / identity-preserve)
+Input / exact edit target: /Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view.png (revision 3 before this overwrite)
+Identity hairstyle inspected: /Users/lu/Repos/AI_characters/alibaba/qwen_mature_view.png (not supplied to generator)
+Generated source: /Users/lu/.codex/generated_images/01a108a4-7d1c-7772-93bc-cf491f5d2c10/exec-3228b704-9114-4ff3-a659-69439f5cc00f.png
+Final project copy: /Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view.png
+Background: opaque white; transparent_background=false
+Referenced image paths: ["/Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view.png"]
+
+Exact generation prompt:
+Use case: precise-object-edit / identity-preserve.
+Asset type: adult anime character three-view turnaround, local hair correction.
+Input image 1 is the EXACT edit target, alibaba/qwen_fitness_view.png. Edit this image itself. Keep its particular clothing version and all non-hair details unchanged.
+
+Subject: the same clearly adult Qwen woman, age 25 or older, shown in FRONT, true LEFT-facing SIDE PROFILE, and BACK, on the same white background.
+
+CHANGE ONLY THE HAIR, consistently in all three views:
+1. Restore the missing thick hanging side braid in the CENTER left-facing profile. It is the SAME large braid visible on the character's anatomical LEFT side in the front view (viewer-right in that front view). In the left-facing profile, draw this braid prominently IN FRONT OF the near-camera shoulder, from beside the ear across the shoulder down alongside the upper chest to the rib area. It must be a substantial rope-like THREE-STRAND PLAIT, with clearly alternating large braided segments all the way down and a small restrained tied end. Match the front-view braid's thickness, blue-violet color, segmented weave and identity. Do not substitute loose strands or the small crown braid. Keep the existing front-view hanging braid recognizable.
+2. Reduce the loose-hair volume only moderately, by about 15–20 percent. Use a slightly narrower, more natural long wavy silhouette with fewer oversized outward loops and big curls in front, profile and back. It should still be abundant long WAVY hair with soft flowing strands, not thin or straight hair. Keep the same cool periwinkle / blue-violet hair hue and shading.
+3. Shorten the loose-hair tips ONLY A LITTLE, about 5–10 percent of their current long length, raising the lowest loose tips by a small distance from the existing upper-hip area. Keep unmistakably LONG hair reaching toward the lower back / waist-to-upper-hip zone. Do not turn it into medium or short hair, and do not drastically crop its length. The hanging braid should end naturally beside the chest/ribs as in the existing front view.
+4. Preserve the characteristic braided crown at both temples and the V-shaped woven crown at the back of her head. Preserve bangs, hat placement and recognizable hairstyle. In the back view, the long hair remains a foreground curtain lying OVER her back, shoulders and upper arms, with the lower forearms emerging naturally below it; do not paint skin/body over the hair. Keep natural layering and coherent anatomy.
+
+STRICT INVARIANTS: leave the adult natural fitness body, original face, violet eyes, expression, head size, arms, legs, stature, shoes and relaxed standing poses unchanged. Preserve the exact existing pearl-white short qipao construction, the chest's angular keyhole opening and its size, bust anatomy, gold trim, lavender floral embroidery, skirt length, side slits, opaque complete side-hip coverage, single frog fastening at the collar, Qwen medallions on the chest and purple tilted hat, earrings, colors and garment fit. Do not modify clothing, crop the image, add accessories, add a second braid, change the logos, or introduce shorts. Same three full-body figures, alignment, spacing, white background, faint ground shadows, existing polished 2D anime linework and soft cel shading. No text or labels. This is a small hair-only repair to the supplied image, not a redesign.
+
