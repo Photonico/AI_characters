@@ -1,8 +1,8 @@
 Generator: built-in image_gen
 Reference image 1: google/gemini_view.png (tail corrected to short coat)
-Reference image 2: deepseek/deepseek_mature_fitness_view.png (latest natural fitness revision)
+Reference image 2: deepseek/deepseek_fitness_view.png (latest natural fitness revision)
 Generated image: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-b8b8a212-4fdc-486f-a83c-828b11e88172.png
-Final output: google/gemini_mature_fitness_view.png
+Final output: google/gemini_fitness_view.png
 Date: 2026-10-05
 
 Use case: identity-preserve / stylized-concept.

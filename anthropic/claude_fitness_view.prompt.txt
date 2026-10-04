@@ -1,6 +1,6 @@
 Generator: built-in image_gen
 Identity reference: anthropic/claude_standard.jpg
-Final output: anthropic/claude_mature_fitness_view.png
+Final output: anthropic/claude_fitness_view.png
 Initial generated image: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-af57c72f-c728-458d-a318-6104322f9ed1.png
 Final generated image: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-45970a0e-e6c1-4b22-9d7a-d05a41b32c9e.png
 

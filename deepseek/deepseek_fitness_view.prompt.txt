@@ -1,7 +1,7 @@
 Generator: built-in image_gen
 Identity reference: deepseek/deepseek_mature_view.png
 Body and clothing reference: user attachment in this conversation, 2026-10-04
-Output: deepseek/deepseek_mature_fitness_view.png
+Output: deepseek/deepseek_fitness_view.png
 
 Use case: identity-preserve.
 Asset type: a polished anime character turnaround sheet for the ADULT blue-haired DeepSeek mature character, FITNESS VERSION.

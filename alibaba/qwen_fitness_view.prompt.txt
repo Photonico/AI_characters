@@ -1,8 +1,8 @@
 Generator: built-in image_gen
 Reference image 1: alibaba/qwen_mature_view.png
-Reference image 2: deepseek/deepseek_mature_fitness_view.png (latest natural fitness revision)
+Reference image 2: deepseek/deepseek_fitness_view.png (latest natural fitness revision)
 Generated image: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-201bd4cf-3f27-48f6-bdaa-ebeaefdbdf15.png
-Final output: alibaba/qwen_mature_fitness_view.png
+Final output: alibaba/qwen_fitness_view.png
 Date: 2026-10-05
 
 Use case: identity-preserve / stylized-concept.
