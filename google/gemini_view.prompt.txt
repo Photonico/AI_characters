@@ -1,0 +1,11 @@
+Generator: built-in image_gen
+Edit target: google/gemini_view.png (original before short-coated tail correction)
+Generated image: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-8761dbc5-f1fc-4f7e-8e5b-f5fafd98b9e8.png
+Final output: google/gemini_view.png
+Date: 2026-10-05
+
+Use case: precise-object-edit.
+Edit ONLY THE CAT TAIL in the supplied adult Gemini front/side/back character reference sheet. Gemini is a SHORT-HAIRED CAT girl, so replace the very large fluffy plume tail with a natural short-coated cat tail in EACH of the three views.
+The tail is long, smoothly curved and tapered, with a medium-width sturdy round tubular root and a gradually narrower rounded tip. Short fur lies flat against the tail, forming a clean smooth contour with no large tufts, feathery fringe or bushy plume. Preserve the original blue/cyan/yellow/pink/lavender flowing gradient coloration, with a gentle smooth fur sheen. Keep one tail attached naturally at the same lower-back location in each figure. Retain broadly similar curling direction and approximate length while dramatically removing the excessive fluffy width. No whale tail or flukes.
+EVERYTHING ELSE MUST REMAIN IDENTICAL: keep the three adult character figures, their original anatomy, faces, hair, ears, heterochromatic eyes, star motifs, outfit, long sleeves, jewelry, skirts, ribbons, boots, poses, figure placement, art style, white background, and original Front/Side/Back captions. Do not redesign the clothing in this edit. This asset remains the original reference design with only its tail corrected to short fur. Tail fully visible and no new cropping.
+
