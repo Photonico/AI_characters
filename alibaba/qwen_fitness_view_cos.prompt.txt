@@ -1,0 +1,39 @@
+Generator: built-in image_gen
+Date: 2026-10-05
+Use case: precise-object-edit / identity-preserve
+New asset: alibaba/qwen_fitness_view_cos.png
+Output background: opaque white; transparent_background=false
+
+Primary edit input: /Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view.png
+Primary input SHA-256: 59bdd798cf5c05d6a12ff1034a3295ddeb52442beed0a7ef2d1f722d4586ba48
+Successful hairstyle generation source: /Users/lu/.codex/generated_images/01a108a4-7d1c-7772-93bc-cf491f5d2c10/exec-f196ebc6-aab5-4863-8261-e8738ed34812.png
+Final correction input: /Users/lu/.codex/generated_images/01a108a4-7d1c-7772-93bc-cf491f5d2c10/exec-f196ebc6-aab5-4863-8261-e8738ed34812.png
+Final generated source: /Users/lu/.codex/generated_images/01a108a4-7d1c-7772-93bc-cf491f5d2c10/exec-3ecbde24-24cd-4632-bb6e-d2b37b7fe425.png
+Final project copy: /Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view_cos.png
+Primary source and alternate source were not overwritten.
+An earlier detailed prompt attempt produced no artifact because the tool rejected its output at the moderation stage (sexual); the successful neutral hairstyle edit and one local rear-collar correction below are the complete generation chain used for this final image.
+
+Exact successful hairstyle generation prompt:
+Edit the supplied full-body character-reference sheet of an adult woman aged 25 or older. Create a Qwen hairstyle cosplay variant by changing ONLY her hair and the conflicting head ornament.
+
+Give her the classic Chun-Li hairstyle: exactly TWO matching rounded hair buns, one at each side of her head, with simple white cloth bun covers and short white satin tie ribbons. Her hair remains cool blue-violet, and she keeps her existing Qwen bangs. Gather all the remaining hair smoothly backward into the two symmetrical buns, with a neat nape. Remove all long loose hair, waves, crown braids, hanging front braids and ponytails. Keep the original Qwen face, violet eyes and earrings.
+
+Replace the old tilted hat with one small purple-and-gold Qwen medallion attached to a single bun. Retain the source's white angular Qwen emblem on the purple medallion. No additional hat, third bun or large headpiece.
+
+Preserve the source's exact neutral standing front / left-facing profile / back three-view layout. The same two buns must have consistent size, height, white covers and ribbon attachment in every view. Profile shows the naturally visible bun rather than two wrongly arranged buns. Back view shows the pulled-up blue-violet hair gathered into the two buns, with bare shoulders and arms and the existing sleeveless white garment naturally visible below; there is no long-hair curtain. Render the previously hair-covered back naturally and consistently with the existing high-collar white qipao.
+
+Keep everything else from the source unchanged: the adult Qwen identity, face, expression, natural physique, poses, white qipao design and fit, collar fastening, embroidery, gold trim, chest Qwen medallion, skirt shape, shoes, full-body framing and white background. Use Chun-Li's hairstyle only; Qwen keeps her existing white outfit and her own facial identity. Same polished 2D anime style, colors, lines and shading. All bun covers and short ribbon ends remain fully inside the frame. This is a neutral adult character-design sheet; no new objects, text or extra figures.
+
+Final local correction - Remove the model-added rear collar fastening, preserve the one front fastening
+Exact correction prompt:
+Make ONE small garment-detail correction to this existing neutral adult Qwen three-view hairstyle sheet. In the RIGHTMOST BACK VIEW only, remove the extra gold frog-button / knotted loop ornament centered on the BACK of her Mandarin collar. The back collar should be a clean smooth white collar with the existing fine gold edging and a simple seam, without a button or fastening on the back. Keep the original single collar fastening on the FRONT VIEW and its physically correct SIDE VIEW appearance unchanged. It is one front fastening, not a separate back fastening.
+
+Change nothing else. Preserve the same adult Qwen face, body, poses, entire white qipao, embroidery, gold trim, chest badge, shoes, white background and exact three-view layout. Preserve the completed Chun-Li-style TWO symmetrical white-covered buns, short white satin ribbons, cool blue-violet pulled-up hair and bangs, and small purple Qwen medallion on one bun. No long hair or braid. Only remove the unwanted rear-collar ornament.
+
+Visual QA:
+- Exactly two symmetrical round white-covered Chun-Li-style buns with short white ribbons; cool blue-violet hair and Qwen bangs preserved.
+- Long loose hair, rear waves and hanging braid removed; back view shows neatly gathered hair and natural shoulders/upper arms.
+- One small purple-and-gold Qwen badge integrated at the side bun; no third hat mass.
+- Qwen adult face, body, outfit, chest badge, front collar fastening, shoes and front/left-profile/back sheet retained.
+- Unwanted rear collar loop removed in the final correction.
+

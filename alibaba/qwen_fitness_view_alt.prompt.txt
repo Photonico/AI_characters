@@ -1,0 +1,36 @@
+Qwen fitness alt: all hair gathered into one large Chinese-style braid
+Date: 2026-10-05
+Mode: built-in image_gen.imagegen edit (not CLI; no Python image editing)
+Use case: precise-object-edit
+Edit target and sole generation reference: /Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view.png
+Input / unchanged main image SHA-256: 59bdd798cf5c05d6a12ff1034a3295ddeb52442beed0a7ef2d1f722d4586ba48
+transparent_background: false
+Generation source: /Users/lu/.codex/generated_images/01a108a5-0829-73b3-a929-58dbe2df7d5d/exec-154abfc3-acb2-41a6-a6ad-f4783742ea68.png
+Saved destination: /Users/lu/Repos/AI_characters/alibaba/qwen_fitness_view_alt.png
+Generation source / saved alt image SHA-256: e8830c4c1c188e369d7d21a33447a9d9a2d29c6d1f07ed9083173614bfe5e154
+Image format and dimensions: PNG, 1672 x 941, RGB, 8-bit, non-interlaced
+Iterations: one generation; no follow-up image editing was necessary.
+
+QA observations:
+- Existing bangs remain; the rest of the blue-violet hair is fully gathered into one substantial three-strand Chinese-style low side braid.
+- Front and left-facing side views show the same broad segmented braid over the anatomical left shoulder, hanging in front of the chest to the waist/upper-hip region, with a small gold tie and short tapered tail.
+- Back view shows neatly gathered hair at the nape and the same braid root turning towards the anatomical left shoulder (viewer left), without a second central back braid or long loose hair.
+- Shoulders and back are naturally exposed by the tied-up hairstyle; previously hair-occluded dress regions are completed in the matching original outfit design.
+- Face, adult natural body, original hat/badge, earrings, chest Qwen badge, single collar clasp, current outfit chest opening, skirt/slit panels, sneakers, poses, shadows and white three-view composition are visually retained.
+- Source and copied destination are byte-identical as verified by SHA-256.
+- Main qwen_fitness_view.png remains unchanged.
+
+Exact prompt submitted:
+Use case: precise-object-edit.
+Asset type: Qwen adult female character, front / left-facing side / back three-view full-body illustration sheet.
+Input image 1 is the ONLY EDIT TARGET: qwen_fitness_view.png. Produce a new hairstyle variant of this exact character sheet. She is an adult woman aged 25 or older with natural adult anatomy.
+
+Primary request: Change ONLY the hairstyle. Replace ALL of her loose long wavy hair and the separate existing short side braid with ONE SINGLE, very clear, full, substantial, thick Chinese-style three-strand plait. Preserve the existing cool blue-violet hair color and the exact existing bangs/fringe. All remaining hair must be combed neatly and smoothly together, gathered at the low back of the head near the nape, and braided into that one continuous large braid. No loose shoulder-length hair, no hair curtain covering the back, no outward-splaying waves, no second independent braid, no separate crown braid. The smooth combed scalp hair should flow into the single low braid. This is fully tied-up long hair, not a short haircut.
+
+Braid geometry and consistency across views:
+- The ONE large braid starts at the low back of her head and curves naturally around the anatomical LEFT side of her neck, goes OVER her LEFT shoulder and hangs down the FRONT of her left chest and torso. In the FRONT figure the braid is on viewer RIGHT, following the original side braid's side. In the MIDDLE LEFT-FACING SIDE figure her anatomical left side faces the camera; the same thick braid is clearly in front of the near-camera shoulder and chest.
+- Give the braid many broad, unmistakably interwoven three-strand segments, a substantial thick width, elegant slight taper, and a consistent long endpoint around her waist/upper hip, approximately near her wrist level. Use a very small gold hair tie near the end and a short neat tapered tail. No added bows, beads, flowers, ornaments, or other new hair accessories.
+- The BACK figure shows hair smoothly gathered down towards the nape, the same single braid root bending toward her LEFT shoulder (viewer LEFT in the back view), then continuing in front of that shoulder and therefore mostly hidden by the body from this rear viewpoint. Do NOT place another long braid down the center of her back. The back and shoulders should be visible naturally because all her hair is tied into the one side braid. Draw only the appropriate visible beginning/outer edge of this same braid at the left shoulder. Keep its anatomy and position consistent with front and side views. No long loose back hair.
+
+STRICT INVARIANTS: Change hair only. Preserve the original hat and its placement, Qwen badge on hat, exact face and expression, purple eyes, earrings, adult natural body proportions and shape, breasts, waist, hips, thighs, arms, hands and legs. Preserve the exact current white-and-lavender qipao-inspired outfit, gold edging, original chest opening, current short skirt length, current open side-slit outlines and dress panel shapes, the SINGLE original collar clasp, chest Qwen logo, lavender floral fabric pattern, purple-white sneakers, full-body poses, front/side/back view directions, figure positions, white background and soft shadows. Where removing loose hair exposes the existing back of the dress, complete it naturally using the same white-and-lavender material and gold edging, without adding new buttons, accessories, logos, sleeves, or a different outfit. Preserve source linework, anime illustration style, shading and canvas proportions. No text, labels, watermark, extra characters or objects.
+
