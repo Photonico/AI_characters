@@ -21,3 +21,39 @@ HAIR OCCLUSION: In the BACK view, her long rainbow waves form a natural foregrou
 
 LAYOUT: exactly three full-body depictions of the SAME adult character, left to right FRONT, true left-facing SIDE PROFILE, BACK. Neutral relaxed upright stance, arms gently away from sides, empty hands, comfortable neutral feet. Orthographic turnaround feeling; equal height/scale and aligned head/foot baselines. Entire ahoge, ears, hair ends, short-coated tail and shoes in frame, with generous outer margins, white background and faint soft grounding shadows. No text, labels, inset figures or extra props. Polished detailed 2D anime rendering matching Gemini's reference, delicate lines, gentle cel shading, sophisticated iridescent highlights without excess glow. Wide landscape sheet.
 
+
+----------------------------------------------------------------
+Revision: slightly visible short dense cat tail fur and overall noise cleanup
+Date: 2026-10-06
+Mode: built-in image_gen.imagegen edit (not CLI; no Python image editing)
+Use case: precise-object-edit
+Edit target and sole generation reference: /Users/lu/Repos/AI_characters/google/gemini_fitness_view.png
+Original input SHA-256: ed28116e9150781d197b89d2d9a0fdeff6ad9761d61c7b117eca3dbeec4f278d
+transparent_background: false
+Generation source: /Users/lu/.codex/generated_images/01a108a5-0829-73b3-a929-58dbe2df7d5d/exec-37d5d181-1fe8-4da1-b367-762d69ff3d74.png
+Saved destination: /Users/lu/Repos/AI_characters/google/gemini_fitness_view.png
+Generation source / saved image SHA-256: cd0632359a86b6bb0cabcc148aaafb24d1c700d011e0588152513cc79219282f
+Image format and dimensions: PNG, 1672 x 941, RGB, 8-bit, non-interlaced
+Iterations: one generation; no further image edit was necessary.
+
+QA observations:
+- All three tail views have visible fine directional short cat-fur strokes and a subtly soft short-velvet edge, replacing the overly smooth/plastic finish.
+- Tail remains a slim rounded short-coated cat tail, with the original physical length, thickness, curves, attachment and rainbow gradient visually retained; no large tufts, fox-tail plume or spikes.
+- Skin and background appear clean and smooth; preserved illustrated shading, hair-strand detail and coherent short tail-fur detail.
+- Exact original face/heterochromia, rainbow long hair, ears, fitness outfit, bra/skort/shoes/light strips, adult natural body, poses and white three-view layout are visually retained.
+- Source and copied destination are byte-identical as verified by SHA-256.
+
+Exact prompt submitted:
+Use case: precise-object-edit.
+Asset type: Gemini adult cat-woman FITNESS front / left-facing side / back three-view character illustration.
+Input image 1 is the ONLY EDIT TARGET: google/gemini_fitness_view.png. Edit this exact fitness image. The character is an adult woman aged 25 or older with natural adult anatomy.
+
+Primary request: Correct ONLY the CAT TAIL FUR in all three views and clean up noise / grain across the image. Her tail has been made overly smooth and almost hairless/plastic. Make the fur only slightly longer so that it is clearly recognizable as soft CAT FUR, while she remains a SHORT-HAIRED cat-woman with a slim short-coated cat tail.
+
+TAIL FUR REQUIREMENTS: Preserve exactly one existing iridescent cat tail per figure, with its exact physical length, width/thickness, root attachment, curved trajectory, rounded tubular form, tapered rounded tip and existing blue/cyan/yellow/pink/lavender color gradient. Change its surface material from the current overly smooth plastic-like finish to a short, dense, fine feline coat. Draw very small but visibly legible close-lying directional hair strokes that follow the tail's curve, and a subtly soft short-velvet outline with tiny short hairs. Slightly increase individual fur length only enough to make fine cat-coat texture visible. Use the same short dense fur material in front, profile and rear views. Keep the current narrow tail silhouette: no widening, no enlarged tip, no long furry fringe, no bushy fox tail, no feather-duster shape, no large tufts, no thick long clumps, no spikes. The visible short fine fur is intentional coherent directional hair detail, NOT random noise; do not erase it into a hairless smooth tube during cleanup. Render fine fur elegantly and cleanly rather than peppered speckles or grain.
+
+CLEANUP REQUIREMENTS: clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting
+Keep skin naturally clean, smooth, gently shaded and high clarity; retain natural illustrated skin shading and anatomical forms without plastic glare or airbrushed loss of detail. Remove random grain, noisy speckles, repetitive tiled patterns and dirty surface texture from the image. Preserve clean linework, hair-strand detail, coherent short cat-fur detail, outfit patterns, subtle iridescent highlights and clean lighting.
+
+STRICT INVARIANTS: Change only tail fur plus surface noise cleanup. Preserve the exact face and expression, fixed heterochromia (front viewer-left eye pink-magenta, viewer-right eye amber-gold, profile visible amber-gold eye), rainbow long wavy hair including bangs, buns and ahoge, cat ears, star hair clip, all original cyber fitness outfit pieces, sports-bra silhouette, cropped strapless top, short skirt/skort panels and integrated opaque shorts, white/navy iridescent fabrics, star logos, cyan-magenta light strips, sneakers, mature natural body proportions and body shape, breasts, waist, hips, arms, hands, legs and faint existing abdominal tone. Do not add muscles, increase definition, reshape the body, alter clothing, add garments, alter hairstyle, alter tails' geometry or colors, or add accessories. Retain exactly the original three full-body poses and front / left-facing side / back view composition, figure locations, white background, faint shadows, camera framing, source linework and polished 2D anime style. No text, labels, watermark, extra figures or props.
+

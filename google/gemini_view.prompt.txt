@@ -9,3 +9,34 @@ Edit ONLY THE CAT TAIL in the supplied adult Gemini front/side/back character re
 The tail is long, smoothly curved and tapered, with a medium-width sturdy round tubular root and a gradually narrower rounded tip. Short fur lies flat against the tail, forming a clean smooth contour with no large tufts, feathery fringe or bushy plume. Preserve the original blue/cyan/yellow/pink/lavender flowing gradient coloration, with a gentle smooth fur sheen. Keep one tail attached naturally at the same lower-back location in each figure. Retain broadly similar curling direction and approximate length while dramatically removing the excessive fluffy width. No whale tail or flukes.
 EVERYTHING ELSE MUST REMAIN IDENTICAL: keep the three adult character figures, their original anatomy, faces, hair, ears, heterochromatic eyes, star motifs, outfit, long sleeves, jewelry, skirts, ribbons, boots, poses, figure placement, art style, white background, and original Front/Side/Back captions. Do not redesign the clothing in this edit. This asset remains the original reference design with only its tail corrected to short fur. Tail fully visible and no new cropping.
 
+Revision 2 - Slightly longer visible short cat fur and clean texture (LATEST FINAL)
+Date: 2026-10-06
+Generator mode: built-in image_gen
+Use case: precise-object-edit
+Exact edit input: /Users/lu/Repos/AI_characters/google/gemini_view.png (regular costume version before this overwrite)
+Input SHA-256: 836e2c880431589cf01a695d0cf516c002ff216143c030674c0a45ebf9c5368d
+Generated source: /Users/lu/.codex/generated_images/01a108a4-7d1c-7772-93bc-cf491f5d2c10/exec-7de891fe-e7c2-418d-b88d-975e02cc3424.png
+Final project copy: /Users/lu/Repos/AI_characters/google/gemini_view.png
+Background: opaque white; transparent_background=false
+Referenced image paths: ["/Users/lu/Repos/AI_characters/google/gemini_view.png"]
+No fitness reference used.
+
+Exact generation prompt:
+Use case: precise-object-edit.
+Asset type: regular Gemini adult cat-woman front / side / back reference sheet.
+Input image 1 is the EXACT regular-design edit target, google/gemini_view.png. This is the ornate original costume version, not a fitness version. The same character is an adult woman aged 25 or older. Perform a small tail-fur correction and a clean image-texture pass.
+
+TAIL FUR ONLY, IN ALL THREE VIEWS:
+Keep the existing long slender rainbow cat tail in exactly the same position, lower-back attachment, curve, length, taper and underlying thickness. Preserve the blue/cyan/yellow/pink/lavender color flow and its current curled directions. Change the overly smooth plastic-looking tail surface into visible short, dense CAT FUR. Increase the currently near-invisible hair length only a little, so the fine short hairs and small close-lying hair groupings can be read clearly. Show delicate individual hairs locally, subtle short-fuzz edges, and gently directional fur following the tail's round surface and curve. The fur must be coherent in each view and flow naturally from the root toward the tip. It should feel soft and furry rather than rubber, plastic or a smooth gradient tube.
+The whole tail still has a slim SHORT-COATED CAT silhouette. The faint furry fringe adds only a small amount of width. No bushy fox-tail volume, giant pointed hair tufts, long feathered strands, thick spikes, plume or feather-duster appearance. Do not shorten the tail or reposition its tip. Preserve one tail per character.
+
+IMAGE CLEANUP:
+clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting
+Remove accidental raster grain, dirty speckling, mottled noise and rough surface artifacts throughout the image. Preserve natural soft painted skin shading, smooth clean colors, sharp delicate outlines and subtle clean lighting. Preserve intentional costume patterns, pale diamond textile motifs, star emblems, linework and jewelry detail. Do NOT treat the newly requested fine cat-fur strands as noise and smooth them away. Keep the short fur crisp and readable while the rest of the image is clean and clear.
+
+STRICT INVARIANTS:
+Keep the same adult Gemini face, facial expression, heterochromatic eyes, rainbow long hair and its length, blue cat ears and their shape, complete ornate original clothing, sleeves, skirt, ribbons, stars, jewelry, hanging ornaments, boots, natural adult body proportions, poses and all anatomical features unchanged. Keep the original front/side/back composition and every object in the same location. Retain the white background and original "Front", "Side", "Back" captions and their ornaments exactly. Same polished bright 2D anime art style and color palette. No new costume, no body or hairstyle changes, no new objects, no crops. Only slightly lengthen the short tail fur and clean accidental texture noise.
+
+Visual QA:
+The tails remain slim, long and smoothly curved with the original placement and rainbow color flow. Fine short fur strands and a restrained fuzzy contour are visible in all three views; no large plume or long pointed tufts. Adult identity, heterochromatic eyes, rainbow long hair, ears, ordinary costume details, poses and Front/Side/Back captions remain consistent. The whole image is clean and clear while the intended fur detail remains readable.
+

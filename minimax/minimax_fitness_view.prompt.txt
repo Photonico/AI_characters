@@ -1,0 +1,38 @@
+Date: 2026-10-06
+Generator: built-in image_gen
+Output: minimax/minimax_fitness_view.png
+Reference 1: minimax/minimax_standard.jpg (authoritative character identity, reporter theme and colors)
+Reference 2: deepseek/deepseek_fitness_view.png (natural adult physique and turnaround layout only)
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-0fcd14c8-8551-47aa-a5aa-bab9755d87b7.png
+Transparent background: false
+
+Exact generation prompt:
+Use case: identity-preserve / stylized-concept.
+Asset: minimax_fitness_view.png, an adult reporter-themed FITNESS three-view character turnaround.
+Input roles: IMAGE 1 (minimax_standard.jpg) is the authoritative MiniMax identity, hair, accessories, character palette and reporter styling reference. IMAGE 2 (deepseek_fitness_view.png) is ONLY a reference for the natural tall adult fitness anatomy and the neutral full-body three-view layout. Do not copy DeepSeek's character, hair, maid garments, ears, tail or emblems.
+
+Produce exactly three separate complete views of the SAME ADULT WOMAN, age 25 or older: FRONT, precise LEFT-FACING SIDE PROFILE, and BACK, in that left-to-right order. Equal stature/scale and aligned head tops/feet, relaxed neutral upright standing, arms gently clear of the torso with empty hands. White background, faint ground shadows, generous separation, all fingers/shoes/cap in frame. Polished anime character art matching the warm detailed source illustration, clean fine lines, soft natural cel shading, no captions or watermark.
+
+MINIMAX IDENTITY: remain faithful to image 1. Warm peach-orange shoulder-length bob with layered outward-flipping ends, peach-coral/pink shading in the lower inner hair, original fringe and a little lively side tuft. TWO coral-pink eyes, friendly confident adult reporter face with a bright subtle smile. Preserve the cream reporter beret, narrow coral filmstrip-like hatband, small coral side bow, accurate coral-pink MiniMax waveform emblem on the front, delicate croissant-shaped earrings, thin black choker and tiny warm-colored pendant. Short hair stays genuinely shoulder-length in every view, with a natural hair layer in front of the nape when seen from behind; do not invent long flowing locks or animal features.
+
+FITNESS BODY: clearly adult and naturally athletic, tall balanced approximately 7.5-head proportions, long legs with moderately full trained thighs and calves, soft understated arm tone, a healthy natural waist and only a faint abdominal muscle contour. Similar natural proportions to image 2. Normal adult shoulder/hip ratio and restrained muscle volume; no squat oversized hips, bodybuilder bulk, exaggerated anatomy or chibi proportions. Face and body age must be consistent.
+
+SPORTS CLOTHING: translate the journalist's exact ivory / cream / warm beige plaid / coral-pink palette into an attractive compact adult fitness outfit. An opaque supportive ivory athletic bra/crop top with a flattering V neckline, coral-pink piping and a fitted underbust band, natural upper-chest contour, exposed toned midriff and bare arms/shoulders. A SHORT beige/tan plaid athletic mini skirt derived from her source plaid reporter skirt, with neat coral-pink edging and a small coral waistband whose subtle buckle motif echoes the original MiniMax waveform. The front and rear skirt panels fully cover the pelvis in all views; built-in opaque sports lining stays concealed, not an exposed underwear design. The skirt hem is comfortably at the upper thighs. This is a complete practical athletic outfit with an elegant adult silhouette.
+
+RETAIN REPORTER IDENTITY WITHOUT A LONG COAT: keep the beret, croissant earrings and compact choker as above. Include a small firmly attached cream/coral MiniMax PRESS badge on the top (a small clipped or sewn badge, no long dangling lanyard) and a compact version of her original dark field audio recorder with gray windscreen clipped securely at her anatomical LEFT outer hip. No large reporter tote, long coat, sleeves, sleeve cuffs, long straps, loose ribbons or floating screens. No handheld props. Use the original MiniMax waveform mark on the beret/badge, not a random generic logo.
+
+SHOES ARE NIKE AIR FORCE 1 LOW: retain the reference's cream/ivory-white and coral-pink color combination while depicting the recognizable low-top AF1 leather sneaker shape. Ivory perforated toe boxes, layered leather vamp/eyestay panels, coral-pink laces and coral-pink Nike Swooshes on the side panels, small coral heel accents, broad flat ivory cupsoles with a restrained coral outsole edge. Classic relatively straight AF1 soles, not curved running-shoe soles, no visible air window or high platform. Preserve her cream crew socks with neat coral-pink top stripes and small waveform detail. The same AF1 shoes appear coherently from front, side and rear.
+
+Keep outfit construction, plaid colors, logo placements, hairstyle length, ear jewelry, figure height and recorder position consistent in all three views. From the back the short bob naturally covers only nape/upper neck; the shoulder-length hair should not be lengthened to cover the entire arms. Stable professional character-design poses, no erotic action or intimate focus.
+
+Post-generation quality review following user's additional request:
+clean smooth texture
+no grain
+no noise
+no tiling artifacts
+no dirty texture
+natural skin texture
+high clarity
+clean lighting
+The resulting illustration was visually checked for these properties and showed clean shading without visible grain or repeating artifacts.
+
