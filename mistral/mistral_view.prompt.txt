@@ -1,0 +1,50 @@
+Mistral standard three-view generation record
+Date: 2026-10-07
+Generator: built-in image_gen.imagegen (not CLI)
+Output: /Users/lu/Repos/AI_characters/mistral/mistral_view.png
+Output PNG dimensions: 1536 x 1024
+Output/source SHA-256: ec8b8714b1cd636e22ad21d8db8d1cb44cb16bd4ff4b890c88fab011df4859bd
+Copy verification: final generated source and workspace PNG are byte-identical.
+Reference: /Users/lu/Repos/AI_characters/mistral/mistral_standard.jpg
+Reference SHA-256: 49239c83fbcccd23fd2061fbac02059fc9390f653b92cab6838da65fbaabbfa9
+
+Generation 1
+Mode: built-in reference-based generation; stylized-concept
+Referenced image: /Users/lu/Repos/AI_characters/mistral/mistral_standard.jpg
+transparent_background: false
+Generated source: /Users/lu/.codex/generated_images/01a0f38a-4479-7a03-8451-1b14d64193b2/exec-0de9b2c6-a726-4fee-9773-847c3dbfaccd.png
+Generated source SHA-256: 6244e0e00220e115911ab31ac4f73251ccfc6dfc5b226c8bfdfd41e29d8f30c4
+Exact prompt:
+Create Mistral's STANDARD adult three-view character sheet faithfully from the supplied mistral_standard.jpg. She is a clearly ADULT French aristocratic catwoman aged 25+, naturally slender and elegant with approximately 7.5-head proportions, not muscular sportswear. Wide white landscape sheet, exactly three equally scaled FULL-BODY depictions: FRONT, strict 90-degree LEFT-FACING SIDE, BACK. Aligned heads and shoes, composed upright stance. Leave enough space around every hat feather, cat tail, sword and shoe; no cropping or overlapping neighboring figures.
+
+IDENTITY: golden-orange hair smoothly grading through warm orange into deep red at the curled tips; gold/amber feline eyes, orange-gold cat ears with creamy white inner fur, and one matching golden-to-red cat tail with short-to-medium fur rather than a giant fox plume. Preserve the recognizable face and poised aristocratic, slightly self-satisfied subtle smile. Keep the source's broad red hat with gold brim edging, gold fleur-de-lis, orange-square white pixel M emblem, red bow and white feather plume. The bow/plume is on her anatomical RIGHT side. Cat ears are physically attached to the head and coexist naturally with the fitted hat; no floating/disconnected ears or hat slicing through them.
+
+FAITHFUL ORDINARY COSTUME: retain the reference's full white/red/gold aristocratic formal outfit: ruffled white standing collar and cuffs, red neck bow and gold brooch, white sleeves with ornate red/gold shoulder and cuff details, white gloves, structured red/white gold-trimmed corset, long ivory outer skirt with gold fleur-de-lis and filigree embroidery, richly layered red/gold underskirt, original gold chains and small pixel-M/key ornaments, white stockings with fine gold woven patterns, glossy red/gold high heels. Preserve the source garment palette, layering, ornament language and mature elegance. Do not replace with fitness clothing or modern sneakers.
+
+HAIR AND TAIL ANATOMY: control the hair to upper-hip / relaxed-wrist length, no longer than the source in relative body length. In BACK view the main hair is one continuous dense opaque golden-to-red curtain in front of the back and shoulders, with coherent overlapping central locks; no inverted V/U hole and no torso/corset slicing in front of the main hair. Preserve graceful curls without inflated extra volume. The cat tail originates naturally at the lower back/upper pelvis, never from a thigh or lower skirt hem. Allow it to emerge through an unobtrusive back opening in the skirt. Retain its tapered curved form and warm golden-to-red coloring.
+
+SIGNATURE BAGUETTE-RAPIER: keep the unique long toasted French baguette as the blade, its diagonal bread scores, ornate GOLD sword guard with the pixel M emblem, and gold hilt. Her anatomical LEFT gloved hand naturally grips the HILT just below the guard at hip level; keep the baguette blade upright beside and outside the body, spaced away from the face and hat. The other gloved hand hangs relaxed. The weapon is on front viewer-RIGHT and back viewer-LEFT; in the left-facing side view it is held on the near anatomical-left side, positioned slightly forward of the body so it does not cover the profile. Same grip, height, construction and correct anatomical side in all three views. This is a calm character reference pose, not a combat action. Entire bread blade and pommel in frame.
+
+Clean detailed anime linework and soft shading matched to the reference. Consistent clothing lengths, hat, ear structure, hair length, accessory placement and footwear across all views. Clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting. No added labels, captions, insets, people or watermark.
+
+Generation 2: user-requested posterior ear/hat occlusion correction
+Mode: built-in edit; precise-object-edit
+Referenced image (edit target): /Users/lu/.codex/generated_images/01a0f38a-4479-7a03-8451-1b14d64193b2/exec-0de9b2c6-a726-4fee-9773-847c3dbfaccd.png
+transparent_background: false
+Final generated source: /Users/lu/.codex/generated_images/01a0f38a-4479-7a03-8451-1b14d64193b2/exec-ad99f0c3-b6d6-4bac-adfc-251e45b2fb35.png
+Final generated source SHA-256: ec8b8714b1cd636e22ad21d8db8d1cb44cb16bd4ff4b890c88fab011df4859bd
+Exact prompt:
+Use case: precise-object-edit. Edit the supplied Mistral standard three-view sheet ONLY in the rightmost BACK figure's head, hat and cat-ear region. The two back-view cat ears must be correctly seen from behind and mostly hidden behind the hat: show only small upper tips or slivers of ORANGE-GOLD OUTER EAR BACK fur, never white inner ear triangles facing the viewer. The rear hat crown and rear brim are in the foreground and occlude nearly all ear roots and most ear surfaces. Match the same real ear locations and hat tilt established by the unchanged FRONT and SIDE figures. Reduce the currently prominent exposed triangular ear shapes rather than adding new ears. Make the hat a true back view: plain red rear crown with gold band, keep the existing red bow and white feather on her anatomical right side, but remove the front-facing pixel-M badge from the BACK bow so no front emblem is pasted onto the rear.
+
+Absolutely preserve the left FRONT and middle SIDE figures, including their hats and ears. Preserve the BACK face orientation, hair length and continuous hair-over-body layering, entire adult body, natural proportions, formal white/red/gold noble gown and sleeves, gloves, stockings, heels, tail, full baguette-rapier and grip, poses, colors, exact three-view placement and wide canvas. This is only a small posterior ear/hat occlusion correction; do not redesign clothing or change the sword. All hats, feathers, sword tips, tails and shoes remain fully within frame. Clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
+
+Visual QA:
+- Adult ordinary Mistral identity, golden-orange-to-red hair, amber eyes, noble red/white/gold formal gown, sleeves, gloves, patterned stockings and heels retained.
+- Front, left-facing side and back are complete full-body views; hats, plume, baguette-rapier, tails and shoes are in frame.
+- Baguette-rapier is held in the anatomical left hand across views and remains fully visible.
+- Back hair is an opaque overlapping foreground layer over the back, with no large torso/corset gap.
+- Corrected BACK ears show only small orange-gold posterior tips; the hat overlaps the roots. White inner-ear triangles do not face the rear camera.
+- BACK hat retains its right-side bow and feather; duplicated front pixel-M badge removed from the rear bow.
+- No material visual changes to the front/side figures observed in the localized correction.
+- Clean smooth illustration without obvious grain, dirty texture or tiling artifacts.
+
