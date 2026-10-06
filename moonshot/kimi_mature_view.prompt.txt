@@ -1,0 +1,31 @@
+Date: 2026-10-06
+Generator: built-in image_gen
+Mode: NEW identity-preserving three-view generation from original character reference
+Only visual reference: moonshot/kimi_standard.png
+Reference SHA-256: f6718d162fce6aa5f67bdd6059ee06e9b45f5b29e26828f1f317c516694a74c0
+No previous Kimi turnaround or generated image was used as a reference.
+Output: moonshot/kimi_mature_view.png
+Generated source: /Users/lu/.codex/generated_images/01a0f38a-4479-7a03-8451-1b14d64193b2/exec-4fd4a11e-c3ef-4f84-b2b6-622892369512.png
+Dimensions: 1536 x 1024
+SHA-256: 33986a7e78819575a4246f8909c659e8eab95734afd6b051d31a959b94a6e71d
+
+Exact generation prompt:
+
+Create a NEW ordinary Kimi character turnaround using ONLY the supplied original kimi_standard.png as the identity and costume reference. Exactly three equally scaled FULL-BODY views on a wide white sheet: FRONT, true 90-degree LEFT-FACING SIDE, BACK. Aligned heads and feet, relaxed upright stance, hands lowered. She is clearly an ADULT woman aged 25+, naturally tall, cool, rational and composed, with gray-blue eyes.
+
+HIGHEST PRIORITY — NEW WAIST-LENGTH HAIR: silver-white hair with subtle icy-blue shading. Shorten the reference hairstyle so ALL longest tips finish at the natural waist / top of the hips, at the skirt waistband. Never reach the hands, upper thighs or lower hips. Reduce the reference's excessive curling and outward volume: mostly smooth falling lengths, only a few gentle waves at the ends. Nearly all the main hair is brushed behind the shoulders and hangs DOWN HER BACK. Only a few short face-framing strands may fall in front, ending at the collarbones; do not send long main locks around the chest. SAME waist-length haircut in all three views.
+
+BACK VIEW, NON-NEGOTIABLE: show a single dense OPAQUE curtain of real silver-white hair from the back of the head continuously down to the waist. Add coherent overlapping central locks, not two separated side bunches. The entire central upper-body area from nape through shoulder blades, back and rear corset to the waist must be HAIR, completely hiding those garment surfaces. Layer order: CAMERA -> HAIR -> TORSO/CLOTHES. No navy torso/corset cutting in front of hair, no inverted-V or U-shaped opening, no transparent central gap, no locks rerouted in front of the body to display the back clothing. Hair also covers the shoulders and upper arms; lower forearms and hands emerge below/alongside it. End the continuous curtain at the waist; the full skirt below is visible normally. Keep moderate natural hair width, no giant inflated curls.
+
+Preserve the reference's original ORDINARY navy-and-white gown, long sleeves, structured waist, layered long skirt, moon/star/music-staff patterns, K insignia, small chains, flute and original navy ankle-strap block-heel shoes. No sportswear. Preserve the maid headband and small crescent + black prism + rainbow + K/music ornament on her anatomical LEFT side (front viewer-right; near side in left-facing profile; back viewer-left). Keep her recognizable face and restrained unsmiling expression. Faithful elegant anime linework and delicate shading, all figures and accessories fully in frame. No extra people, captions, labels, inset views or watermark.
+
+Clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
+
+Strict visual QA:
+- Rear central hair is a continuous dense opaque silver-white curtain from the nape through the entire back and corset to the waist. No inverted-V/U opening and no torso or garment panel over the main hair.
+- Longest hair ends at the waist/upper hips in all three views, well above the hands and thighs. Outward volume and curl complexity are substantially reduced from the original character reference.
+- Main hair mass hangs behind the body. A few thin front face-framing strands extend slightly below the collarbones to the upper chest; they are not large rerouted main hair masses.
+- Adult proportions, calm expression, gray-blue eyes, anatomical-left crescent/prism/rainbow/K/music ornament and original ordinary navy-white costume/shoes retained.
+- Front / true left-facing side / back are full-body and consistently framed. Clean smooth surface without obvious grain or dirty/tiling artifacts.
+- Generated PNG copied without programmatic image editing. Original kimi_standard.png left unchanged.
+

@@ -38,3 +38,37 @@ Visual QA:
 - Adult face, physique, hair, crown, black/gold/wine sports top and skirt, shoes, poses, framing and background preserved.
 - Clean texture and linework retain the intentional fine lace detail.
 
+Revision 2 - Coordinated ivory / champagne outfit and shoes (LATEST FINAL)
+Generator mode: built-in image_gen
+Date: 2026-10-06
+Use case: precise-object-edit / identity-preserve
+Exact edit input: /Users/lu/Repos/AI_characters/xai/grok_fitness_view_white_stockings.png (original white-stockings variant before this overwrite)
+Input SHA-256: 13505a34b1a7d981585d76ad9e4864146c8b059da52a2f6a58108a313c1f8707
+Referenced image paths: ["/Users/lu/Repos/AI_characters/xai/grok_fitness_view_white_stockings.png"]
+Generated source: /Users/lu/.codex/generated_images/01a108a4-7d1c-7772-93bc-cf491f5d2c10/exec-c427bb29-1ffd-4ba0-9463-590e38715ee9.png
+Final project copy: /Users/lu/Repos/AI_characters/xai/grok_fitness_view_white_stockings.png
+Background: opaque white; transparent_background=false
+First recolored image accepted after visual QA.
+Only this white-stockings PNG and its prompt history were changed.
+
+Exact generation prompt:
+Use case: precise-object-edit / identity-preserve.
+Edit the supplied neutral full-body three-view fashion sheet of this fictional ADULT Grok woman aged 25 or older. This exact white-stockings image is the only reference.
+
+CHANGE ONLY THE COLORS OF HER SPORTS TOP, MINI-SKIRT AND ATHLETIC SHOES:
+Recolor all their large black, deep-plum and dark wine-red cloth or shoe panels to warm IVORY WHITE / creamy milk-white, with pale CHAMPAGNE GOLD secondary panels and fine elegant gold edging. Create a coordinated light luxury palette that harmonizes with the existing ivory stockings. The sports top straps, band and cups, the entire mini-skirt including waistband and pleated inner panels, and the shoes' uppers, laces, tongues and soles should be predominantly ivory / cream. No large black, plum or dark-red panels remain on these garments or shoes. Preserve fine gold motifs and Grok ring-with-diagonal-slash medallions, readable in delicate warm gold against ivory. A few extremely small wine-red accent points are allowed, but do not use wide wine-red fabric inserts. Keep the existing shape, seams, closures, trimming, shoe components, proportions and shading of every garment. The top and skirt remain fully opaque.
+
+LOCK EVERY OTHER DETAIL:
+Keep the adult body and its proportions, facial identity, blue eyes, smug playful smile, golden twin ponytails, pointed ears, black bows and bat-wing hair ornaments, black/gold crown and all head accessories unchanged. Their dark head accents are intentional and can remain. Do not change chest anatomy, limb contours, skirt length or coverage, poses, hands or shoes' shapes. Preserve the original mature ivory silky thigh-high stockings, complex floral/scroll openwork lace tops, scalloped edges, separate slim leg rings and tiny clasps/knots EXACTLY; do not recolor or replace the stockings or simplify their lace. No new objects or weapons.
+
+Same complete FRONT / true LEFT-FACING SIDE PROFILE / BACK sheet, same three figures in the same positions and size, original white background and soft ground shadows, same precise anime linework and clean soft shading. Apply the ivory/champagne garment recolor consistently in all views. No cropping or new poses.
+clean smooth texture,no grain,no noise,no tiling artifacts,no dirty texture,natural skin texture,high clarity,clean lighting
+Keep all intentional fine lace, gold embroidery and clean garment seams visible. Only coordinate the outfit and shoes with the white stockings through recoloring.
+
+Visual QA:
+- The sports top, mini-skirt and athletic shoes are consistently ivory / warm cream with light champagne/gold details in all three views.
+- Their large former black, plum and wine-red panels are fully recolored; head bows, crown and bat-wing ornaments retain the original dark colors.
+- Fine gold Grok ring/slash marks and delicate outfit edging remain readable.
+- The existing ivory stockings, intricate scalloped lace, slim leg rings and tiny wine accents remain unchanged.
+- Adult face/body, garment structure, skirt length/coverage, shoes' shapes, poses, framing and background remain consistent with the input.
+
