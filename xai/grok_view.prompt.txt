@@ -1,0 +1,45 @@
+Generator: built-in image_gen
+Date: 2026-10-06
+Use case: stylized-concept / identity-preserve
+Asset: standard adult Grok front / left-facing side / back turnaround
+Authoritative reference input: /Users/lu/Repos/AI_characters/xai/grok_standard.jpg
+Reference SHA-256: 730d6ea99cb5cda25035aaf75d8815a01761a660b1ecba156b9cc6b3c48df66c
+Referenced image paths: ["/Users/lu/Repos/AI_characters/xai/grok_standard.jpg"]
+Generated source: /Users/lu/.codex/generated_images/01a108a4-7d1c-7772-93bc-cf491f5d2c10/exec-5336514a-9a17-4611-a6b1-256d45400e0f.png
+Final project copy: /Users/lu/Repos/AI_characters/xai/grok_view.png
+Background: opaque white; transparent_background=false
+First generated image accepted after visual QA; no additional generation iteration.
+
+Exact generation prompt:
+Use case: stylized-concept / identity-preserve.
+Asset type: standard full-body three-view character reference sheet.
+Input image 1, xai/grok_standard.jpg, is the authoritative identity, palette, hairstyle and STANDARD COSTUME reference.
+
+Create a polished FRONT / true LEFT-facing SIDE PROFILE / BACK turnaround of this fictional Grok character. She is a clearly ADULT woman aged 25 or older: a wealthy fictional heiress with a haughty, sly, mischievous and provocative-in-attitude personality, carefree confidence, and a knowing smug smile with one small pointed canine. This is an invented anime character, not a portrait of any real person. Give her mature adult facial structure, adult brows and eyes, adult skeletal proportions and a graceful stature of about 7.5 heads. Keep her bright BLUE eyes and source identity. No childlike face, oversized toddler head, tiny child body or chibi proportions.
+
+IDENTITY AND HAIR:
+Preserve the long golden-blonde TWIN PONYTAILS, source side bangs and single curved upward ahoge. There are exactly TWO main long ponytail bundles tied at the sides with the original black bows. They have the same long length, flowing curved ends, density and strand groups as the source; do not split them into extra ponytails or convert them into a loose rear hair curtain. Preserve the small dark bat-wing-shaped hair ornaments at the side ties, small pointed ears, and the compact BLACK-AND-GOLD CROWN. The source Grok emblem is a gold ring with a diagonal gold slash / stylized star-wheel accents; retain that specific identity mark on the crown and existing costume medallions. Do not substitute another brand logo or generic unrelated star.
+
+STANDARD CLOTHING — MATCH THE SOURCE:
+Keep the luxurious deep black / very dark plum gothic formal dress, rich dark wine-red lining, intricate restrained gold embroidered leaf borders and piping, white small ruffles, the original off-shoulder construction and long dramatic bell sleeves with white ruffled cuffs. Retain the structured fitted waist/corset section, collar bow and Grok ring/slash badge, waist medallion and delicate gold chains, large layered floorward skirt with asymmetrical source drapes, decorative black ruffles, and wine-red fabric visible inside the skirt layers. Preserve the source's dark long stockings and ankle-strap chunky-heeled shoes with their small gold circular Grok medallions. Wealth is conveyed by her small crown, high-quality tailoring and refined gold details. No additional money, phone, handbag or other props. This is the STANDARD gothic costume version; do not convert it into sportswear or a fitness outfit.
+
+NO WEAPONS OR HAND PROPS:
+Completely REMOVE the large axe, its shaft and all other weapons. BOTH hands are empty and rest naturally down at her sides, with arms relaxed and slightly away from the sleeves/skirt so the garment reads clearly. Do not hold or lift the skirt. No new weapons.
+
+LAYOUT AND REAR CONSISTENCY:
+Exactly three separate complete adult depictions arranged left-to-right FRONT, strict LEFT-FACING SIDE PROFILE, BACK. Neutral upright technical reference poses, consistent adult anatomy and stature in all views, matched head height and soles, natural feet, generous clean spacing. Every hair tip, bow, crown point, hand and shoe fits entirely inside the frame. White background with soft faint grounding shadows, no text or labels.
+The side view is a genuine profile with face pointing to the left, not a three-quarter front. The rear must be a true back view of the same character: accurate rear crown, two black ponytail bows, bat-wing hair ornaments, same two long golden ponytails and coherent rear dress/corset/skirt/chain construction. The rear ponytails hang naturally OVER and OUTSIDE the shoulders and sleeves where they overlap. Do not paint the body or sleeve on top of foreground ponytail locks. The middle between the two ponytails may naturally reveal the upper back and back of the outfit; do not fill it with a third mass of loose hair.
+
+STYLE AND CLEANUP:
+Same high-quality anime fine linework and soft cel shading as the source, luxurious black/gold/wine palette with warm golden hair and clear blue eyes, natural adult anatomy and clean softly lit surfaces.
+clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting
+Preserve sharp small intentional embroidered motifs, ruffles, polished medallions and hair strands while avoiding dirty grain and random texture noise.
+
+Visual QA:
+- Three complete figures in front, true left-facing profile and back views, with consistent mature adult stature; crown, ponytail tips and shoes inside the frame.
+- Source golden long twin ponytails, black bows and bat-wing tie ornaments, pointed ears, compact black/gold crown and blue eyes retained; haughty mischievous smile with a small canine.
+- Standard dark gothic dress, wine-red lining, gold embroidered borders, white ruffles, off-shoulder cut, long bell sleeves, fitted waist, gold chains and ring/slash medallions retained.
+- Axe and all weapons absent; both hands empty and relaxed.
+- Rear ponytail masses remain two and lie naturally outside/in front of overlapping shoulders/sleeves, with upper back visible between them.
+- Clean white background, soft grounding shadows, smooth surfaces, clear linework and decorative detail.
+

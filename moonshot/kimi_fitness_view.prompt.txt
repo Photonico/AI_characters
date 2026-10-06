@@ -1,0 +1,40 @@
+Date: 2026-10-06
+Generator: built-in image_gen
+Output: moonshot/kimi_fitness_view.png
+Reference 1: moonshot/kimi_standard.png (authoritative identity, character palette and accessories)
+Reference 2: moonshot/kimi_mature_view.png (existing adult turnaround reference)
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-9ec0c9eb-41db-4064-85ab-269261b82d01.png
+Transparent background: false
+
+Exact generation prompt:
+Use case: identity-preserve / stylized-concept.
+Asset type: kimi_fitness_view.png, refined ADULT Kimi FITNESS character turnaround.
+Input roles: IMAGE 1, kimi_standard.png, is the authoritative Kimi identity, face, original colors and symbolic accessories. IMAGE 2, kimi_mature_view.png, is her existing adult three-view identity and design reference. Translate her clothing into a fitness outfit while preserving the same recognizable woman. Do not reproduce the incorrect rear hair/body overlap in image 2.
+
+Subject and mood: Kimi is an ADULT WOMAN aged 25 or older, an aloof, rational, self-possessed aristocratic young lady. Her expression is calm and cool, intelligent steady gray-blue eyes, composed closed lips, subtly confident chin and dignified posture. Adult facial proportions and a refined expression, no cheerful open-mouth smile, no exaggerated blushing, no childish or chibi face. Her elegant authority and restrained precision should be visible in the tailored design.
+
+IDENTITY: retain silver-white long hair with faint icy blue/lavender shading in the inner lengths, the original parted fringe and long gently waving locks, both cool gray-blue eyes, the restrained white ruffled headband. Preserve a compact version of her original signature accessory on her anatomical LEFT temple: silver crescent moon, small dark triangular prism with a slim rainbow beam, navy bow, a small silver K mark and one short music-note charm. Match the source shapes and colors, don't invent a different logo. No animal ears or tail. Long hair remains long and recognizable, reaching roughly the hip/relaxed wrist region with softly curled ends, not down to knees or the floor. Keep volumes naturally controlled rather than adding enormous extra curls.
+
+ADULT ATHLETIC ANATOMY: tall, naturally trained, approximately 7.5 heads, long adult legs, moderately full firm thighs and calves, proportionate normal shoulder/hip width, restrained arm tone, healthy natural waist, faint strong abdominal contours on exposed midriff. Fit with a balanced feminine silhouette, no exaggerated bodybuilder muscles or sharply etched ab blocks, no squat overwide hips, no exaggerated anatomy. Consistent height, limb thickness, face and body in front / profile / rear.
+
+FITNESS COSTUME: an elegant, attractive adult training outfit based on Kimi's deep midnight-navy, ivory-white, cool pale-lavender and silver palette. An opaque supportive ivory and navy athletic BRA / cropped training top with a graceful V-shaped neckline and natural upper-chest contour, clean silver piping, structured navy underbust band and a small navy circular K badge with its tiny blue-dot accent on the chest. Bare shoulders and arms, exposed naturally toned abdomen, no corset or waist cincher. Pair it with a VERY SHORT but fully covering navy athletic mini skirt with refined ivory/silver edge trim, one subtle pale-lavender side insert and discreet tiny crescent/star/music-staff embroidery adapted from the source. The skirt fully covers the pelvis in front, side and rear, with a concealed opaque integrated sports lining; no visible underwear or exposed intimate anatomy. The silhouette is sleek, precise and sophisticated, premium technical fabric with controlled soft highlights, never a frilly bulky costume.
+
+Simplify the source wardrobe for exercise: remove long outer skirts, floor-length panels, long sleeves, shoulder drapes, large waist chains, flute, hanging tablet, and clusters of long tassels or K pendants. Keep the small identifying headband/accessory and a neat compact navy neck bow or slim collar accent if it reads cleanly; no loose long scarf. Empty hands. Footwear: elegant compact midnight-navy court training shoes, restrained ivory soles and silver accents, visually coordinated with the source palette, with bare legs and no long stockings. No new props.
+
+REAR HAIR LAYERING: from the rear camera the main silver-white hair lies on the EXTERIOR of the back as the closest visible layer. It spreads naturally over the back and BOTH shoulders and completely covers BOTH upper arms down to the elbows, with forearms and hands emerging at the sides below the hair. The back/shoulders/top must stay behind the hair; do not paint a torso or shoulder in front of the main locks or split the hair into two side curtains exposing a central back panel. Maintain continuous believable hair locks, the same physical length in all views, and natural softly tapered ends. Keep original hair color; don't introduce blue/navy hair.
+
+LAYOUT AND FINISH: exactly THREE complete full-body figures from left to right FRONT, exact LEFT-FACING SIDE PROFILE and BACK. Neutral technical standing poses with relaxed downward arms, matching stature/scale and aligned feet and head tops. All hair tips, head accessories, hands and shoes contained in frame, generous spacing and white background with subtle clean grounding shadows. The same hairstyle, accessory placement and garment construction must hold in every view. Fine clean anime linework and polished smooth soft shading. No text, captions or watermark.
+
+Texture/lighting requirements:
+clean smooth texture
+no grain
+no noise
+no tiling artifacts
+no dirty texture
+natural skin texture
+high clarity
+clean lighting
+Intentional hair strands and a few fine garment motifs remain clear; smooth natural skin shading without dust, speckle, grunge, film grain or repeating artifacts.
+
+QA: Adult stature, cool rational expression, silver-white/icy-blue hair, gray-blue eyes, left temple accessory, K/music motifs, rear hair foreground coverage and smooth clean shading visually checked. The fitness costume uses coordinated navy training shoes.
+
