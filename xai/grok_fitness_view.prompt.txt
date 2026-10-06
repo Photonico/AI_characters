@@ -1,0 +1,62 @@
+Grok adult fitness three-view character sheet
+Date: 2026-10-06
+Mode: built-in image_gen.imagegen generation with references, followed by one targeted built-in garment edit (not CLI; no Python image editing)
+Use case: stylized-concept / identity-preserve; correction: precise-object-edit
+Initial generation reference 1 (authoritative fictional Grok identity): /Users/lu/Repos/AI_characters/xai/grok_standard.jpg
+Reference 1 SHA-256: 730d6ea99cb5cda25035aaf75d8815a01761a660b1ecba156b9cc6b3c48df66c
+Initial generation reference 2 (body proportions and layout ONLY): /Users/lu/Repos/AI_characters/deepseek/deepseek_fitness_view.png
+Reference 2 SHA-256: 7ad38518f5b805887b126b9869286de5ea320ed052a91c12234514aaed0d2b6b
+transparent_background: false
+Initial generated source: /Users/lu/.codex/generated_images/01a108a5-0829-73b3-a929-58dbe2df7d5d/exec-67702ef7-ebfd-4dde-9a19-e60172662a85.png
+Correction input (sole edit reference): the initial generated source above
+Correction reason: hide a small inner lining patch at the back skirt hem and give the short opaque outer skirt complete buttock coverage
+Final generated source: /Users/lu/.codex/generated_images/01a108a5-0829-73b3-a929-58dbe2df7d5d/exec-7199e55e-082f-4f48-8108-4e819e9c72c8.png
+Saved destination: /Users/lu/Repos/AI_characters/xai/grok_fitness_view.png
+Final source / saved image SHA-256: dfcb98e042bf3363f6b9b4b179ff4c2910e17593fffbae1f4d81957bd75680f6
+Image format and dimensions: PNG, 1536 x 1024, RGB, 8-bit, non-interlaced
+
+QA observations:
+- Clearly adult tall Grok, blue eyes and smug fang smirk; natural adult proportions with moderately full trained legs and soft abdominal tone.
+- Exactly two golden-blonde high ponytails, correct black bows, bat-wing hair accents, pointed ears, compact black-gold crown and gold circle-slash Grok identity marks.
+- Black/deep-plum supportive low-V sports bra and a very short opaque athletic skirt, wine-red accents and antique-gold fine edges, complete coverage and hidden integrated lining. No visible underwear after the targeted rear hem correction.
+- Dark lightweight training shoes, bare legs and arms, no corset, heavy sleeves, long chains, weapon or other props.
+- Front / true left-facing side / back full-body white sheet, consistent body scale and garment construction; all ahoge, hair tips, hands and shoes in frame.
+- Back ponytails remain separate with a natural center gap and flow over outer shoulders/arms as the foreground layer.
+- Clean smooth skin and white backdrop, fine coherent hair and apparel detail retained.
+- Source PNG and saved copy are byte-identical as verified by SHA-256. Original grok_standard.jpg remains unchanged.
+
+Exact initial prompt submitted:
+Use case: stylized-concept / identity-preserve.
+Asset type: Grok adult female FITNESS character turnaround, three full-body views on a wide landscape white sheet.
+INPUT ROLES: Image 1, xai/grok_standard.jpg, is the authoritative fictional GROK identity, hair, eye color, crown, emblem and palette reference. Image 2, deepseek/deepseek_fitness_view.png, is a supporting reference ONLY for tall naturally fit adult body proportions, moderately full trained legs and a consistent front/side/back sheet. Do not copy DeepSeek's face, blue hair, whale features, maid styling, whale tail or garments.
+
+SUBJECT / ADULT AGE: Reimagine the source Grok anime personification as a clearly mature fictional adult woman aged 25 or older. She is a wealthy heiress in this fictional character's story, with haughty confidence, mischievous smugness, a sly teasing smirk and one small canine fang. She is not any real person's daughter or portrait. Give her tall natural ADULT proportions around 7.5 heads, a mature face with less rounded cheeks, defined adult chin, refined brows and confident adult eyes. Keep her recognizable bright blue eyes, playful sharp fang and personality. No childlike, teenage, loli, chibi, baby-face or short big-headed proportions.
+
+GROK IDENTITY: warm golden-blonde long HIGH TWIN PONYTAILS, exactly two tied tail sections, side-swept layered fringe and her single curved raised ahoge. Keep black bow ties at the ponytail roots, small dark bat-wing-shaped hair accents, visible subtle pointed ears, and a compact black-and-antique-gold little crown bearing the gold circle-and-diagonal-slash Grok emblem. Retain the same gold circle slash emblem / subtle star-wheel accents as small integrated apparel identity marks. The bows and crown may be made compact enough for fitness, without losing their recognizable designs. Match the source's gold hair and blue eye colors in all views. Make her smug self-assured expression refined and adult.
+
+PALETTE: deep black and deep plum purple, rich wine-red accents, antique gold fine edges and emblems, only a small amount of ivory-white as restrained highlights.
+
+FITNESS BODY: tall natural adult woman, long thighs and calves, naturally trained and moderately full legs, moderate shoulders and arms, natural waist and hip widths, firm but softly shaded abdomen with only faint existing abdominal / oblique tone. A shapely naturally fit body, not a bodybuilder, not bulky, not deeply etched six-pack, not short/squat, not exaggerated broad hips and not exaggerated breasts. Same anatomy, body volume, height and head-to-body ratio in all three views.
+
+OUTFIT: elegant sensual premium sportswear, complete and fully opaque. A fitted supportive black/deep-plum SPORTS BRA with a low V or tasteful sweetheart neckline, full opaque breast coverage and a secure supportive underbust band, thin wine-red edging, fine antique-gold seam accents and a small gold Grok circle-slash badge at the center. Bare shoulders and upper arms, no sleeves. A cropped athletic bra ending just below the bust with exposed natural midriff; no corset, no waist cincher, no longline bodice.
+Very short black/deep-plum ATHLETIC MINI SKIRT ending high on the thighs while fully covering the hips and buttocks in every view, a clean tailored athletic silhouette, subtle wine-red insert panels or inside edging, fine antique-gold trim, and a small integrated emblem. Matching opaque fitted sports lining / integrated shorts HIDDEN underneath for secure complete coverage, no visible underwear, no exposed undergarments. The skirt is short and elegant without large ruffles, long hanging panels or dangling objects. Bare legs. Lightweight low-top dark court-training sneakers with wine-red panels and small refined gold accents, no imposed Nike or other shoe brand.
+Simplify the source fantasy outfit into these two fitted athletic garments: REMOVE the long sleeves, detached sleeves, large collar, shawl, long skirt, dress train, cape, corset / waist cincher, thigh garter, long chains, dangling pendants and heavy boots. No weapon of any kind: absolutely no axe, spear, staff or any other props. Both hands empty.
+
+TWIN PONYTAIL PHYSICS: genuinely TWO long ponytails tied separately at the left and right high roots, not loose long back hair. Use the same number, color and length in all views, falling to around the waist / upper hips with smooth layered flowing golden waves. Front and profile must show plausible near/far ponytail depth. In the back view show the two separate high ponytail roots with black bows, a clearly readable center gap revealing part of the back naturally. The left and right outer ponytails fall over the outside of shoulders/upper arms as the foreground outer layer and must not be incorrectly cut off or occluded by her torso. Do not replace them with a single broad loose-hair curtain, extra ponytails or a hidden third hair section. Keep all ponytail tips and ahoge within the frame.
+
+LAYOUT: exactly three full-body drawings of the SAME adult Grok, left to right FRONT, strict true LEFT-FACING SIDE PROFILE, and BACK. Neutral relaxed upright turnaround poses, arms gently away from her sides, hands empty, feet comfortably neutral. Smug teasing face expression in front and the profile where visible, not dramatic action. Equal figure scales, same adult body/head ratio, aligned crown/head baselines and shoe baselines. Consistent sports-bra and skirt construction, emblems, seams, hair accessories and physical ponytail directions across front, side and back. All hair tips, hands and feet fully in frame with good outer margins. Plain white background and faint clean soft grounding shadows. No text, labels, insets, borders, watermark, extra figures, weapons or objects. Polished detailed 2D anime illustration with clear refined linework, clean soft shading, visible fine hair-strand detail and restrained original-style apparel micro-detail.
+
+CLEANUP REQUIREMENTS: clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting
+Preserve fine coherent hair and apparel details while avoiding random grain, speckles, repeated texture patterns or dirty material surfaces. Natural smoothly shaded clean adult skin.
+
+Exact targeted correction prompt submitted:
+Use case: precise-object-edit.
+Input image 1 is the sole edit target: the newly generated Grok fitness front / left-facing side / back three-view sheet. She is a clearly adult fictional woman aged 25 or older.
+
+Make ONE narrowly targeted garment correction: in the BACK view, extend the existing opaque black/deep-plum mini-skirt back panels downward by only a small amount, approximately to match the current front skirt's hem level. Keep it a very short athletic mini skirt, but the continuous outer skirt fabric must fully cover both buttocks and the buttock crease. The small black triangular lining patch peeking below the center back hem should be hidden beneath the outer skirt, with no underwear or inner sports lining visible. Preserve the existing wine-red inserts, fine antique-gold edge and tiny original motifs, simply carrying the same skirt material and trim to the corrected hem. Maintain coherent same skirt construction across the three views; front skirt shape and length should stay essentially unchanged, side skirt only adjusted if needed for consistent small back-hem coverage.
+
+Everything else MUST remain exactly as in the input: adult body and natural proportions, trained legs and faint abdominal tone, breasts/waist/hips/arms/hands, tall head/body ratio, face, smug fang smirk, blue eyes, golden two ponytails, fringe and ahoge, pointed ears, small black-gold crown/Grok circle-slash emblems, black bows and bat-shaped hair accents, supportive low-V sports bra and its straps/underbust band, colors, shoes, poses, front / true left-facing side / back view directions, white background, soft shadows, clear linework, soft shading and all framing. Keep exactly two genuine ponytails with a visible back-center gap; preserve the outer ponytail depth over shoulders and arms. No weapons or props. Do not add garments, ornamentation or body changes. Keep the original polished anime illustration style.
+
+clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting
+Preserve all fine hair-strand and apparel detail.
+
