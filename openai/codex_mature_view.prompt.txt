@@ -31,3 +31,21 @@ LAYERING AND CONSISTENCY: In BACK view the primary long hair is in the foregroun
 
 STYLE AND FINISH: beautiful refined anime concept-art linework and delicate smooth soft shading, matching the reference family while giving higher clarity. Adult fantasy character design, calm elegant domestic developer identity. White studio background with only a faint grounding shadow. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
 
+
+
+Revision: tail root raised to lower back / upper pelvis
+Generator: built-in image_gen
+Mode: targeted edit of openai/codex_mature_view.png
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-ce427314-ddf2-4d94-9562-4196220a94d2.png
+
+Exact revision prompt:
+
+Edit the supplied mature adult Codex three-view character sheet. Make a precise anatomical correction to her dragon TAIL attachment point in all relevant views. Keep the same Codex adult woman, same face, horns, hair and length, dress, sleeves, bows, pen pocket, slippers, colors, rendering and three-view layout.
+
+The tail currently appears to start too low, near the thighs or bottom of the hips. MOVE ITS ROOT UP substantially and visibly, by approximately one palm / 0.7 head length (about 70 pixels on this sheet), so it emerges from the LOWER BACK at the LUMBOSACRAL region / TOP OF THE PELVIS, where the lower spine meets the upper hips, slightly below the natural waist. It is a continuation of the spine. It must attach well above the thigh tops and crotch, not at the skirt hem, buttock bottom or between legs. Do not attach it to the upper back or neck.
+
+BACK VIEW: move the pointed top of the existing skirt's tail opening UP accordingly to the upper-hip/lower-back level, immediately below the back hair curtain and around the rear bow's height rather than down the skirt near the thighs. Clearly show a short broad scaly tail base emerging through this HIGHER opening. The existing hair may naturally overlap the highest edge of the base, but the visible tail must begin just below the hair ends, at the upper hips. Keep the tail's single coherent scaled body, gradually tapering curved end, dorsal ridges and pale icy-blue material. Tail is distinct from the legs, never a limb growing out of a thigh. Restore white dress fabric where the old lower origin was.
+
+LEFT-FACING SIDE VIEW: raise the broad scaly root to exactly the corresponding lower-back / upper-pelvis height. The first segment should project BACKWARD from the lower back just below the waist, then gracefully curve downward to the existing curled tip, making the attachment unmistakable. It must not originate low behind the thigh. The front view shows the same consistent tail peeking from behind the dress; keep its natural overlap.
+
+Preserve complete head/feet/tail framing, exactly three full-body FRONT / true SIDE / BACK views, same scale and stance, white background. This is an adult ordinary character-design anatomy correction. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.

@@ -1,0 +1,26 @@
+Date: 2026-10-07
+Generator: built-in image_gen
+Mode: precise-object-edit, three-view dragon-wing position correction
+Only edit reference: openai/gpt_mature_view.png (pre-edit GPT ordinary mature three-view sheet)
+Input dimensions: 2048 x 1152
+Input SHA-256: 3f03ee1ac0d747ad43970dbfbc4b446db40ec780e21da162e9a9fdfdb3e25355
+Generated source: /Users/lu/.codex/generated_images/01a0f38a-4479-7a03-8451-1b14d64193b2/exec-d55b8dc7-f938-411d-ac55-3f27f6cebb12.png
+Output: openai/gpt_mature_view.png
+Generated dimensions: 1672 x 941
+Final SHA-256: 987a065d03b26d35e8d26030b34ad0fb33745baa9af1823ca79ef160dc93b89e
+
+Exact edit prompt:
+
+Use case: precise-object-edit. Edit this existing GPT mature three-view character sheet. Change ONLY the vertical position of the dragon wings in ALL THREE views.
+The wings are currently too high. Move BOTH wing roots AND the entire corresponding wing silhouettes DOWN by about half of her head height, approximately 60–70 pixels on the supplied 2048 x 1152 canvas. A head height here means crown to chin, excluding horns. This is a modest downward translation of the whole wings, not a change in wing size, shape, spread, rotation or tilt. In the front, true left-facing side and back views, the attachment points must represent the SAME anatomical location at the middle-to-lower shoulder-blade region on the upper/mid back, comfortably below the shoulder tops and below the current attachment level. They must NOT grow from the neck, shoulder tops or upper arms; do not lower them all the way to the waist or hips. In the BACK view, clearly show both wings emerging from behind the hair at this lower scapular level. Lower the existing root, upper wing bends, membranes and outer tips together, so the change is visibly apparent across all three figures.
+Preserve the original wing span, matching left/right wing size, white skeletal ridges, pale lavender membranes, pointed/scalloped silhouette and detailed dragon-wing design. Keep natural layering: the wings originate from the back; hair, torso, sleeves and arms stay in front wherever they overlap the wings.
+Everything else is locked: the same clearly adult GPT woman, face, violet eyes, white hair and its length/volume, horns, ears, OpenAI hair ornament, adult body proportions, relaxed poses, full white/lilac gown, sleeve drapes, jewelry, shoes, dragon tail and scales, all costume details and colors. Preserve the same front / side / back layout, character sizes, framing, white background and clean anime style. Every wing tip and complete figure must stay in frame. No new items, labels, cropping or text. Clean smooth texture, no grain, no noise, no dirty or tiled texture, natural skin shading, high clarity and clean lighting.
+
+QA:
+- Entire wings and wing roots visibly lowered together by approximately half a head height in front, left-facing side and back views.
+- Wing attachments now align around the middle/lower shoulder-blade region, below the shoulder tops, without moving to the hips.
+- Original wing span, bone ridges, lavender membrane and pointed scalloped silhouettes visually preserved.
+- Adult face, body, hair, horns, white/lilac gown, sleeves, ornaments, shoes and dragon tail retained; full three-view framing intact.
+- Root agent independently inspected generated source and accepted the lowered positions and retained main design before save.
+- Clean smooth rendering; no obvious grain or dirty/tiling texture.
+- Generated PNG copied directly without programmatic image editing; source/output SHA-256 verified equal.
