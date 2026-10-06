@@ -48,3 +48,22 @@ Visual QA:
 - No material visual changes to the front/side figures observed in the localized correction.
 - Clean smooth illustration without obvious grain, dirty texture or tiling artifacts.
 
+
+
+Revision: one rear ear completely hidden beneath the high hat brim
+Generator: built-in image_gen
+Mode: targeted back-left ear/brim occlusion correction
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-3475b084-ebbd-41f9-8dde-dec72cd4e2b8.png
+User visually approved this ear arrangement.
+
+Exact revision prompt:
+
+Make ONE SMALL PRECISE OCCLUSION CORRECTION to the rightmost BACK figure of this Mistral ORDINARY character turnaround. Preserve the entire FRONT and SIDE views and all costume, hair, hands, cat tail, shoes and baguette longsword details.
+
+SPECIFIC TARGET: the small orange-gold ear tip at the BACK figure's SCREEN-LEFT side, approximately x1185-1205, y60-92 on the supplied 1536x1024 sheet. This is her ANATOMICAL LEFT cat ear, corresponding to the FRONT view's SCREEN-RIGHT ear under the HIGH SWEPT-UP SIDE of the red hat brim.
+
+Looking directly from behind, that ear must be COMPLETELY HIDDEN by the SAME raised red hat brim. It must not peek above or beside the brim at all. Use the FRONT figure's asymmetrically tilted hat as the exact physical reference. Raise/continue the BACK SCREEN-LEFT swept-up red/gold-edged brim just enough to lie in front of and fully cover this ear. Restore a natural red hat/brim surface where the little orange triangle currently shows. The anatomical ear remains underneath the hat; do not expose any ear tip, ear edge, orange tuft or inner-ear triangle on this BACK SCREEN-LEFT side. Do not add a new ear elsewhere.
+
+Keep the other BACK SCREEN-RIGHT ear near the white feather and red bow exactly as it currently is: limited orange-gold outer-ear back can remain visible there. Keep the hat's red crown, gold piping, ribbon and feather coherent, with the corrected one-sided brim tilt matching the FRONT. Make no unrelated changes and keep the baguette blade/guard/hilt fully intact in all views.
+
+The character is a clearly adult French aristocratic cat woman. Keep the three full-body figures, pure white background, scale and high-clarity smooth anime rendering. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
