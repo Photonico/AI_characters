@@ -36,3 +36,29 @@ Visual QA:
 - Actual sheet shows FRONT / true RIGHT-facing SIDE / BACK. The prompt requested a left-facing profile; the user did not specify the side-facing direction, and this right-facing profile is coherent.
 - All hat feathers, hair, hands, tail and shoes within frame. Clean smooth surface without obvious grain or tiling dirt.
 
+
+
+Revision: transfer user-approved ordinary rear hat/ear occlusion to fitness
+Generator: built-in image_gen
+Mode: targeted rear head/hat edit, two visual references
+Primary reference: live mistral/mistral_fitness_view.png
+Approved ear/hat reference: mistral/mistral_view.png (exec-3475b084-ebbd-41f9-8dde-dec72cd4e2b8.png)
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-719057d0-f4fe-47e4-a594-f7fa85a97051.png
+
+Exact revision prompt:
+
+Edit the FIRST image, Mistral FITNESS character turnaround, using the SECOND image, the user-approved Mistral ORDINARY turnaround, ONLY as the precise reference for the BACK HAT AND CAT-EAR OCCLUSION.
+
+Only modify the HEAD/HAT/EARS of the rightmost BACK FITNESS figure. Keep both FRONT and SIDE FITNESS figures unchanged and preserve the entire rear fitness body, bra/skirt, orange-to-red long hair curtain, adult athletic proportions, single furry cat tail and training shoes. Do not transfer any ordinary gown, sleeves, gloves, stockings, weapons or sword from image two into the fitness image.
+
+COPY THE APPROVED BACK HAT/EAR SPATIAL RELATIONSHIP FROM IMAGE TWO:
+- BACK SCREEN-LEFT cat ear (anatomical LEFT, corresponding to FRONT SCREEN-RIGHT) is COMPLETELY HIDDEN UNDER the swept-up red/gold-edged hat brim/crown. No ear tip or orange tuft should show on this BACK screen-left side at all.
+- BACK SCREEN-RIGHT ear near the white feather and rear red bow may show only a small amount of its ORANGE-GOLD FURRY OUTER BACK SURFACE, as in the approved ordinary image. No white/ivory inner-ear bowl or frontal triangular interior may face the BACK camera.
+- In the fitness back view, the current two front-facing white-inner-ear triangles are wrong. Replace them with the exact approved one-ear-completely-hidden / other-ear-back-only structure.
+- The red hat's high brim from FRONT SCREEN-RIGHT is seen on BACK SCREEN-LEFT, and must physically cover that entire ear. Recreate the approved asymmetric backward hat silhouette at the appropriate fitness head scale.
+- Rear hat crown/brim should show the ACTUAL BACK of the red hat, with thin gold piping, white feather and rear red ribbon on the correct anatomical side. No front fleur-de-lis crown emblem or frontal M badge copied to the backward crown.
+Layering: BACK CAMERA -> REAR HAT / BRIM -> HIDDEN EAR / SCALP. The visible other ear is an outer ear back, never a front ear bowl.
+
+Keep this woman clearly an ADULT age 25+ French noble cat woman. Keep the same identity, clean red/ivory/gold sports outfit and three complete full-body figures on white. This is a precise occlusion/anatomy correction, not a redesign. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
+
+Visual QA: BACK screen-left cat ear is fully concealed under the high hat brim. Screen-right shows only orange-gold outer ear surface near the white feather; no frontal ivory ear interiors. Rear hat asymmetry matches the user-approved ordinary version. Fitness front/side, adult body, sportswear, hair, tail and shoes remain unchanged.
