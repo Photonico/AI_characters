@@ -1,0 +1,33 @@
+Generator: built-in image_gen
+Mode: reference-guided adult character turnaround generation
+Output: openai/codex_mature_view.png
+Primary identity reference: openai/codex_light_view.png
+Adult proportions and sibling reference: openai/gpt_mature_view.png
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-0ac2bb33-eb8d-4e0e-8acb-ea2fe8f1839c.png
+
+Exact generation prompt:
+
+Generate a polished NEW MATURE CODEX character turnaround using TWO supplied reference images, in this exact priority: FIRST image codex_light_view.png is the definitive Codex identity, costume, accessory and color reference. SECOND image gpt_mature_view.png provides adult body proportions, elegant adult facial structure and sibling-family resemblance only. Depict Codex herself as a clearly ADULT woman, age 25+, the grown-up version of the first character and GPT's biological sister in this fictional character setting.
+
+FORMAT: one wide landscape white-background character design sheet, exactly THREE separate complete full-body figures arranged FRONT, true 90-degree LEFT-FACING SIDE, and true BACK from left to right. Same woman, identical outfit and anatomy, same physical hair length, aligned head heights and soles, matching scale and relaxed neutral standing pose. Entire horn tips, hair, hands, shoes and curved tail fit inside the canvas with comfortable white margins. No title, captions, inset, additional figures or scene.
+
+ADULT TRANSFORMATION: adult height and approximately 7.5 to 8 head proportions similar to the GPT mature sheet, refined natural adult womanly bust/waist/hips and long legs, normal slender arms and normal shoulders, believable anatomy. Mature subtle facial planes, smaller head relative to body and restrained blue eyes. Keep Codex's quiet half-lidded attentive expression, composed thoughtful slightly sleepy gaze, closed neutral lips and understated warmth. Recognizably related to GPT while retaining Codex's personal face. Ordinary daily character costume and body, not fitness proportions or exaggerated bodybuilding. No childlike or chibi face/body proportions.
+
+CODEX IDENTITY TO PRESERVE:
+- Long silver-white hair with subtle icy-blue/periwinkle underside, soft controlled waves and parted layered fringe, single small curved ahoge.
+- The main hair falls down her BACK and ends around the upper hips, approximately wrist height, consistent across all views. A few slim shorter face-framing locks may rest in front.
+- A pair of gently curved segmented pale ivory-to-icy-blue dragon horns with blue tips, a pair of pointed elf ears.
+- On her anatomical RIGHT temple (front viewer-left), the light-blue rounded flower/cloud-shaped Codex terminal hair clip with the exact white >_ symbol.
+- On her anatomical LEFT temple (front viewer-right, near side in the left-facing profile, back viewer-left), the white OpenAI interwoven knot ornament with a delicate silver/white dangling tassel.
+- One long softly curved icy-blue dragon tail, with clean overlapping diamond scales and small tapered dorsal ridges, emerging naturally from the lower back under the dress and ending in the reference's curled slender tip. Front can show a little tail at one side; side and rear clearly show the same tail.
+- Codex has no wings in the first reference; preserve that anatomy, do not transfer GPT's wings.
+
+COSTUME: faithfully mature the first image's relaxed, elegant ivory-white OFF-SHOULDER ruffled dress with pale-blue piping and ribbon details. Clearly visible bare upper shoulders and a soft opaque ruffled neckline, long voluminous bishop sleeves with matching narrow blue-trim cuffs. Adapt the cut naturally to the adult torso with a gently defined waist and the original small pale-blue waist bow, soft vertical fabric folds rather than a stiff doll silhouette. A restrained high-low ruffled skirt, FRONT hem just ABOVE THE KNEES, rear hem around MID-CALF, keeping the source's flowing comfortable dress design. Keep delicate side hem bows. No added corset, armor, cape, straps, necklaces or dramatic slit.
+- Keep the small practical ruffle-edged work pocket on her anatomical LEFT front hip (front viewer-right, visible near side in left-facing profile), containing several neat pale-blue/white coding/drawing pens. Small OpenAI knot embroidery on the pocket, clean readable tools, not random rods across the dress.
+- Keep the source's fluffy ivory flower-shaped open-back SLIPPERS, pale-blue soles and a centered white/lavender OpenAI knot emblem. Render these in adult footwear scale, clearly feet and toes fitting naturally.
+- Palette: ivory white, icy lavender and soft pastel blue, cool delicate silver details. The terminal clip, cuff piping, bows, pens and slipper soles are the restrained blue accents. Keep clean edge definition on white.
+
+LAYERING AND CONSISTENCY: In BACK view the primary long hair is in the foreground OVER the shoulders and central back, CAMERA -> HAIR -> DRESS/TORSO. Draw continuous overlapping opaque hair from the nape to the hips, no inverted-V or U-shaped center gap, no dress or skin painted in front of main rear hair. It is acceptable that the rear bodice is hidden by hair. Sleeves and lower hands can be visible beside/below the hair. Tail has a correct lower-back attachment and comes out below the hair, not from the neck or thigh, not passing through a leg. Side view is a true coherent left-facing profile, not a mirrored frontal torso; keep both proper arms, natural hand anatomy, clean distinct tail and hair silhouettes. Exactly the same features and garment seams in all three views.
+
+STYLE AND FINISH: beautiful refined anime concept-art linework and delicate smooth soft shading, matching the reference family while giving higher clarity. Adult fantasy character design, calm elegant domestic developer identity. White studio background with only a faint grounding shadow. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
+
