@@ -1,0 +1,35 @@
+Date: 2026-10-07
+Generator: built-in image_gen
+Mode: identity-preserving fitness three-view generation
+Only visual reference: openai/gpt_mature_view.png (current corrected lower-wing-root version)
+Reference SHA-256: 987a065d03b26d35e8d26030b34ad0fb33745baa9af1823ca79ef160dc93b89e
+Output: openai/gpt_fitness_view.png
+Generated source: /Users/lu/.codex/generated_images/01a0f38a-4479-7a03-8451-1b14d64193b2/exec-5241a2b5-904e-404d-abed-f4e333724558.png
+Dimensions: 1672 x 941
+SHA-256: f6f3aee89502c59fa3e29ae9c0638a2b288e05c2aedc11810917ebeee3c1c67b
+
+Exact generation prompt:
+
+Use case: identity-preserve. Create GPT's FITNESS three-view sheet from this current mature GPT reference, using the SAME clearly adult woman aged 25+, recognizable mature face and features. Wide white landscape sheet with exactly three complete equally scaled figures: FRONT, true 90-degree LEFT-FACING SIDE, BACK, heads and shoe soles aligned. Natural upright confident stance, relaxed arms slightly away from the body. All horns, both wing tips, tail tips, fingers and shoes fully inside the frame.
+
+CHARACTER AND TEMPERAMENT: an aristocratic dragon woman, noble, elegant, proud and self-possessed. Slightly elevated chin, level composed gaze with subtly lowered eyelids, relaxed closed lips; no cheerful smile, flirtatious expression or heavy blush. Preserve silver-white long hair, blue-violet eyes, white segmented dragon horns, pointed ears and her anatomical LEFT OpenAI knot hair ornament with its small tassel. Retain the white/icy-lilac palette and fine silver accents. Approximately 7.5-head tall adult proportions, a natural athletic body with moderately strong full thighs and calves, gently defined arms and barely visible abdominal lines. Avoid bulky bodybuilder muscles, exaggerated muscular segmentation, squat proportions or excessively wide hips.
+
+FITNESS OUTFIT: replace the formal gown with an elegant supportive OPAQUE white and very pale lavender sports bra with simple functional straps and a firm underbust band, plus an ultra-short but FULLY COVERING athletic skirt. The skirt has an opaque integrated sports lining entirely inside it, not an exposed shorts hem. Bare shoulders, arms, abdomen and legs. Fine minimalist silver/pearl/ice-lilac piping and one or two small OpenAI knot emblems. White/lilac professional training sneakers with practical athletic soles, not high heels. Keep it refined and attractive yet functional: no long sleeves, corset, cape, dangling fabric, heavy necklaces, draping chains, garters or large decorative jewelry. Only the small original hair ornament remains.
+
+WINGS AND TAIL, CRITICAL ANATOMY: preserve the mature reference's exact dragon-wing style, scale and CURRENT LOWERED ROOT LEVEL. Both wings originate at the middle-to-lower shoulder-blade area of the back, distinctly below the shoulder tops. Never move them back up to the neck or shoulder tops, and never attach them to the arms. All three views use the same lowered anatomical attachment. Preserve white wing bones, translucent pale lilac membranes and pointed/scalloped shape. Retain the pale-lilac scaled dragon tail with its original fin/ridge details and taper. The tail root comes from the HIGH upper-hip/sacrum/coccyx area just below the waist, through a discreet rear skirt opening. It must not sprout from the thighs or lower skirt hem. The root may be naturally hidden by the hair, but the tail's path must clearly begin at the high pelvis.
+
+HAIR LAYERING: hair is no longer than in the reference, with the longest gentle ends around upper hips / relaxed wrists, never mid-thigh. In BACK view, the main hair is a continuous dense OPAQUE silver-white curtain over the shoulders, upper arms and entire back torso. Layer order CAMERA -> HAIR -> BRA/BODY. No inverted V/U opening, no bra or torso panel cutting across or in front of the central hair mass; do not route central locks around to the chest to expose the back. Hands and lower forearms may show at the sides below the hair. Keep natural volume, without making the hair longer or inflated.
+
+Consistent anatomy, outfit, accessories, wing-root height and tail-root position across all three views. Detailed elegant anime linework and soft shading matching the reference, clean smooth texture, no grain, no noise, no tiling artifacts, no dirty texture, natural skin texture, high clarity, clean lighting. No added text, labels, inset scenes, extra figures or watermark.
+
+QA:
+- Clearly adult tall natural athletic build with moderately full thighs/calves and subtle abdomen definition; composed upright expression.
+- Opaque white/lilac athletic bra and fully covering short sports skirt, practical white/lilac trainers; ordinary gown, long sleeves and heavy chains removed.
+- White hair, blue-violet eyes, horns, pointed ears, anatomical-left OpenAI hair ornament, dragon wings and scaled tail retained.
+- Latest mature reference's lower wing-root level retained consistently; tail originates from the upper hips rather than the thighs.
+- Back central hair curtain is dense and uninterrupted, without exposed bra/torso cutting through the main hair. Some lateral upper-arm skin is visible outside the natural hair silhouette; root agent inspected and accepted this as distinct from a central layering defect, and requested no extra hair inflation or redraw.
+- Front / true left-facing side / back, complete full-body framing with horns, wings, tail and shoes inside the canvas.
+- Clean smooth rendering with no obvious grain, dirty texture or tiling artifacts.
+- Root independently inspected the generated source and accepted delivery before saving.
+- Generated PNG copied directly without programmatic image editing; source and output SHA-256 verified equal. Mature reference and Codex files untouched.
+

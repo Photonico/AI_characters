@@ -1,0 +1,49 @@
+Generator: built-in image_gen
+Mode: adult fitness character turnaround generation from mature reference, followed by targeted back-hair occlusion correction
+Primary reference: openai/codex_mature_view.png
+Output: openai/codex_fitness_view.png
+Initial generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-bb71d9c9-7781-4c24-889c-dec5cbbb2e7f.png
+Final generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-8aa7c499-2975-48f0-9d3a-b93fbfe29f6f.png
+
+Exact generation prompt:
+
+Create an adult CODEX FITNESS three-view character sheet using the supplied codex_mature_view.png as the ONLY identity and anatomy reference. This is the already MATURE adult Codex, age 25+, transformed into a naturally trained adult athlete. Preserve her original silver-white/icy-blue dragon identity and make the personality a brilliant adult code prodigy: quiet focused intelligence, alert thoughtful half-lidded blue eyes, subtly confident almost-knowing expression, a small restrained smile at most, relaxed self-possession and a little effortless informality. Mature facial bones, mature head/body ratio, no childish face or chibi features. Her 'genius young woman' personality is an adult archetype, not a change in age.
+
+FORMAT: one WIDE landscape character turnaround on a pure white backdrop, exactly three complete full-body views in this order: FRONT, true 90-degree LEFT-FACING SIDE, true BACK. Same height and scale, aligned head/soles, relaxed upright standing, arms lowered slightly away from the sides, empty hands. Full horn tips, hair, hands, single dragon tail and shoes within frame. No extra views, labels, captions, props or decorative backdrop.
+
+BODY: tall, approximately 7.5 adult heads. Keep the source's natural adult feminine chest and graceful waist with a real trained physique: moderately fuller, strong thighs and calves, subtly toned shoulders/arms, faint natural abdominal definition visible across an exposed midriff. Athletic and elegant, ordinary attainable muscle proportions. Do not shorten her legs or inflate the hips/shoulders. Not a bodybuilder, no exaggerated cut muscles or steroid look.
+
+FACE/HAIR/ACCESSORIES: preserve Codex's recognizable quiet face and icy BLUE eyes. Long silver-white hair with pale-blue/periwinkle underside, source parted fringe, soft controlled waves, curved ahoge; main hair down her BACK ending at the natural waist / UPPER hips, no longer than the mature reference and well above thighs. A few fine short face-framing strands forward. Ivory-to-ice-blue segmented dragon horns with blue tips and pointed elf ears.
+- Anatomical RIGHT temple (front viewer-left): blue flower/cloud terminal hair clip with the exact white >_ symbol.
+- Anatomical LEFT temple (front viewer-right; near side in left-facing profile; back viewer-left if visible): white OpenAI interwoven knot ornament with the original short dangling tassel.
+Preserve the same reference asymmetry in all views. Keep two horns, two ears, one ahoge.
+
+FITNESS CLOTHES: an attractive professionally functional two-piece outfit, an opaque supportive PEARL-WHITE sports BRA with pale ice-blue edging, clean fitted curved panels, a flattering moderately deep V/scoop neckline and a snug pale-blue underbust band. Natural adult cleavage with complete breast coverage, no transparency. A small neat terminal >_ badge on one outer bra panel, and a tiny white/silver OpenAI knot mark, restrained coding identity rather than text everywhere. Bare shoulders and arms, exposed toned midriff.
+A VERY SHORT, fully covering WHITE athletic MINI SKIRT with light ice-blue pleats/trim, clean minimalist construction, a small soft blue waist bow and one compact functional seam/pocket detail at the same anatomical LEFT hip as the original pen pocket. Keep it sleek and suitable for movement; no pens sticking out or bulky tools. Concealed opaque sports lining remains entirely under the skirt. No visible underwear, no long skirt, no sleeves, no detached sleeves, no corset or waist cincher, no hanging costume chains or excess ruffles. Bare legs, no stockings.
+Adult athletic white/pale-blue low-top training sneakers with practical soles; subtle flower/cloud cushioning motif and small OpenAI knot logos carry over the original slippers' palette and shape language. Proper laces, feet fit naturally.
+
+TAIL ANATOMY — RETAIN THE USER'S RECENT CORRECTION: one continuous icy-blue dragon tail with overlapping diamond scales and small dorsal ridges, naturally substantial at its root and tapering smoothly into the curled tip. Its root attaches to the LOWER BACK / TOP OF THE PELVIS just below the natural waist, at the tailbone / upper-gluteal level. NEVER from the bottom of the buttocks, crotch, thighs or skirt hem.
+BACK: the tail emerges through a neat small opening at the REAR WAISTBAND / UPPER-HIP level, just below the rear hair ends. A short broad scaly base projects backwards from the lower spine, then curves down. SIDE: the same high root clearly begins behind the lower back above the thigh tops, extending backward before curving downward. Front shows the same tail partly beside/behind the hips as needed. Keep it separate from the legs. Source Codex has NO WINGS; preserve that anatomy.
+
+REAR HAIR LAYERING — CRITICAL: one continuous dense opaque main hair curtain from the nape over the shoulders, central upper back and upper arms down to the waist/upper hips. CAMERA -> HAIR -> TORSO/BRA/UPPER ARMS. Cover the rear bra and torso above the hair ends; no V-shaped or U-shaped central hole, no body or garment painted on top of the main hair, no main hair rerouted around the front to display the back. Outer locks naturally cover the rear shoulder caps and upper arms; lower forearms/hands emerge below them. Keep a controlled, coherent hair width and soft wave complexity. Same hair length and arrangement in front/side/back. The skirt, tail and legs remain visible below the hair.
+
+STYLE: polished fine-line anime character concept art, clean delicate smooth shading and higher clarity than the soft reference. Adult refined proportions, sister-family resemblance to GPT through white hair, dragon horns and scales but Codex's cool-blue palette and focused genius personality remain distinctive. White studio lighting with faint grounding shadows only. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
+
+Exact targeted rear-hair correction prompt:
+
+Make a precise HAIR OCCLUSION correction ONLY to the rightmost BACK view in this adult Codex fitness turnaround. Preserve every other part of the image, including the complete FRONT and SIDE figures, adult proportions, face, outfit, high tail attachment, tail geometry, horn/ear/head-clip details and shoes.
+
+The back-view lower hair currently has several gaps that reveal tan BACK SKIN between separated curly locks. Those gaps are an occlusion bug. Fill ALL of those openings with dense opaque silver-white hair with icy-blue shading. From the back of the head / nape through shoulder blades down to the upper hips / skirt waistband, the main hair must be ONE CONTINUOUS CURTAIN of overlapping real hair locks. No exposed tan rear torso, no visible rear sports-bra straps or panel and no V/U-shaped or small separated skin holes through the main curtain. Use subtly layered medium-width flowing locks; the curls remain along the outer edge but should never make a hole in the central sheet of hair. CAMERA -> HAIR -> BACK / BRA / SHOULDERS / UPPER ARMS. Move the existing outer hair locks slightly over the shoulder caps and the backs of the upper arms down to just above the elbows, so the rear upper-body silhouettes are also behind the hair. Only lower forearms/hands are visible beside/below it.
+
+Keep the SAME reference hair physical length and moderate width: ends at the natural waist / upper hips just above the skirt, not hands or thighs. Do not create a longer or inflated hair cloud. Short overlapping locks fill the existing silhouette's gaps, rather than expanding the whole hairstyle. The tail's HIGH root remains correctly attached at the lower back / top of pelvis; the tail still clearly emerges just below the hair through the rear upper-hip / waistband opening. Do not move the tail root down.
+
+This is a fully clothed adult athlete age 25+ in an opaque white/pale-blue sports bra and fully covering mini sport skirt. Preserve the white three-view full-body layout. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
+
+Visual QA:
+- Clearly adult proportions and mature facial structure, naturally trained legs and faint toned midriff.
+- Source Codex silver-white/icy-blue hair, horns, pointed ears, terminal clip and OpenAI ornament retained.
+- Tail origin remains at the lower back / upper pelvis and high rear waistband opening, matching the corrected mature source.
+- Back hair forms a continuous opaque foreground curtain over torso, shoulder caps and upper arms, no holes revealing rear body or bra.
+- Front/left-facing side/back full-body figures align in scale, with white/pale-blue sportswear and trainers.
+- Clean smooth rendering, no obvious grain, noise or tiling dirt.
+
