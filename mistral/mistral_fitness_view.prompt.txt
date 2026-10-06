@@ -1,0 +1,38 @@
+Generator: built-in image_gen
+Mode: adult fitness three-view generation from original character reference
+Primary reference: mistral/mistral_standard.jpg
+Output: mistral/mistral_fitness_view.png
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-d99dd631-db9d-4a31-847e-006c9260eb8d.png
+
+Exact generation prompt:
+
+Create a MISTRAL adult FITNESS three-view character turnaround from the supplied original mistral_standard.jpg. Preserve the identity of this ADULT FRENCH ARISTOCRATIC CAT WOMAN, age 25+: assured noble bearing with a faint playful self-satisfied smile, warm refined mature face, golden amber feline eyes, golden-orange hair fading through orange to deep red ends, orange-gold CAT EARS with ivory inner fur, and ONE matching orange-to-deep-red CAT TAIL. Clearly an adult with mature facial planes and normal adult head/body proportions; no chibi or child features.
+
+FORMAT: a WIDE landscape white-background sheet, exactly THREE complete FULL-BODY views FRONT, true 90-degree LEFT-facing SIDE and true BACK, same scale and height, aligned head tops and feet, neutral upright relaxed posture, empty hands. Every hat feather, ear, hair tip, fingertip, cat tail tip and shoe fully visible. No extra views, labels, scene or text.
+
+BODY: approximately 7.5 adult heads, tall and gracefully athletic, naturally full adult bust, subtly defined waist and faint abdominal muscle contours, moderately thicker toned thighs and calves, believable trained arms and shoulders. An elegant adult feline noblewoman who exercises, not a bodybuilder or giant exaggerated hips. Retain long leg proportions. Avoid oversized head or adolescent body.
+
+IDENTITY DETAILS:
+- Source hair color is crucial: golden blonde-orange at crown and upper lengths, warm orange midlength, vivid rich deep-red tapered tips. Long gently waved main locks fall down her BACK to the waist/UPPER HIPS, about wrist height, no longer. Controlled volume and soft curls, not a giant puffy mass.
+- Gold amber cat eyes and pointed orange/ivory feline ears; NO human ears visible, no horns or wings.
+- A recognizable but slightly compact practical version of her red CAVALIER WIDE-BRIM HAT, gold piping and fleur-de-lis embroidery, red bow, soft white curled feather and the small orange square WHITE PIXEL M Mistral badge exactly as in the reference. Hat brim coexists correctly with cat ears, with the ears emerging through tidy openings or outside the brim, never accidentally severed by the hat.
+- One natural feline tail, orange-gold fur at base and RED at curved tip, moderate short-to-medium coat with visible clean soft furry edges and fine directionality. It remains a cat tail rather than a dragon tail or plush tube. Root attaches at the lower back / TOP of pelvis and upper-gluteal tailbone height, NOT thighs or lower buttocks. The rear sport skirt has a discreet high waistband tail opening. Side and back clearly connect to the same high root.
+
+ATTRACTIVE PROFESSIONAL FITNESS OUTFIT:
+An opaque supportive IVORY-WHITE sports BRA with a graceful V/sweetheart neckline, deep burgundy-red underbust band and limited fine gold edging. Natural adult cleavage with complete breast coverage, functional fitted construction, bare shoulders/arms and exposed toned midriff. A small gold fleur-de-lis and the source's orange-square white pixel M badge as neat chest detailing. No boning, corset, waist cincher, long sleeves, shoulder armor, oversized bows or hanging tassels.
+VERY SHORT but completely covering athletic MINI SKIRT in ivory white with burgundy-red pleated inset panels and fine gold hem/waist trim, understated French fleur-de-lis embroidery or one pixel M badge on a front side panel. One small flat red ribbon at the waist can echo the original noble costume. Concealed opaque movement lining remains entirely under the skirt; no visible underwear. Bare legs, no stockings.
+White/burgundy-red professional low-top TRAINING SNEAKERS with restrained gold accents and subtle Mistral pixel badges. Retain the original red-white-gold palette across the entire outfit. No high heels, gloves, gown, long side drapes, long necklace chains, hanging key, weapons or baguette in this fitness view. Keep noble refinement through fine trim and her composed face rather than cumbersome clothing.
+
+BACK HAIR LAYERING: the main orange-to-red hair must form ONE CONTINUOUS DENSE OPAQUE CURTAIN from back of head/nape over the central torso and shoulder blades to the waist/upper hips. CAMERA -> HAIR -> BACK/BRA/UPPER ARMS. No central V/U gaps, no exposed skin or bra between separated curls, no clothing or body drawn on top of long rear hair. Existing outer locks lie over the rear shoulder caps and upper arms; lower forearms and hands may emerge beside/below them. Do not route the main hair to the front to display back clothing. Same physical hair length and color gradients in all three views. The skirt and high tail root remain naturally visible below/beside the hair.
+
+Polished refined anime illustration matching the source's elegant linework, smooth delicate soft shading and high clarity. White studio background and faint grounding shadows. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
+
+Visual QA:
+- Source identity retained: golden amber cat eyes, golden-orange-to-red hair and cat tail, orange/ivory cat ears, red/gold feather hat and Mistral pixel M badges.
+- Clearly adult naturally trained proportions, moderate strong legs and subtle toned midriff.
+- Continuous opaque hair covers the central back to the waist/upper hips; no central gap revealing torso or bra.
+- One furry feline tail starts at the lower back / upper hips; tail and ears are not dragon anatomy.
+- Fully covering ivory/burgundy/gold sports bra, short athletic skirt and training shoes consistent across views.
+- Actual sheet shows FRONT / true RIGHT-facing SIDE / BACK. The prompt requested a left-facing profile; the user did not specify the side-facing direction, and this right-facing profile is coherent.
+- All hat feathers, hair, hands, tail and shoes within frame. Clean smooth surface without obvious grain or tiling dirt.
+
