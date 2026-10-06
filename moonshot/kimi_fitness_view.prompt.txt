@@ -6,6 +6,27 @@ Reference 2: moonshot/kimi_mature_view.png (existing adult turnaround reference)
 Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-9ec0c9eb-41db-4064-85ab-269261b82d01.png
 Transparent background: false
 
+
+Rear-view hair correction - Dense continuous hair curtain (2026-10-06, LATEST FINAL)
+Generator: built-in image_gen
+Edit target: moonshot/kimi_fitness_view.png
+Input was the original fitness sheet generated from exec-9ec0c9eb-41db-4064-85ab-269261b82d01.png
+Final generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-b6dbe5a4-5a97-42f6-bb98-2458e091f0ba.png
+Final output: moonshot/kimi_fitness_view.png
+Exact edit prompt:
+Use case: precise-object-edit / identity-preserve.
+Edit ONLY THE RIGHTMOST BACK-VIEW FIGURE'S HAIR in this Kimi adult fitness three-view sheet. Preserve the entire FRONT and SIDE figures, existing adult anatomy, all garments, face, expression, head accessory, color palette, poses, background and framing.
+
+The rear view is still wrong: the central lower hair splits into an inverted V and stops high, exposing the waist, rear top and skirt as if the body were in front of the long hair. Correct the actual overlap: camera/viewer -> opaque silver-white hair -> back/body/clothes.
+
+Draw a dense, continuous curtain of Kimi's silver-white/icy-blue long hair over the FULL back, BOTH shoulders and upper arms, waist and upper hips. Restore the missing CENTRAL long locks so they overlap all currently exposed central rear body/clothing, from the nape all the way down to the same hip/wrist height as the outer hair tips (approximately y=510-530 on this 1672x941 input). The central locks must not stop at the waist or create an inverted-V/U opening. There should be NO broad visible central back/top/waist panel through the hair. Keep the main hair on the EXTERIOR behind her body in world space, which is IN FRONT of her body from this rear viewing direction. No large hair masses are routed around the front of her torso.
+
+It is intentional and correct for the hair to hide most of the rear athletic top and upper rear mini skirt. Do not separate the hair to display the outfit. Keep overlapping, opaque, believable individual long hair locks with the existing gentle curled tips, silver-white color and soft icy-blue depth. Retain the original overall hair length and side silhouette; solve by adding the missing center coverage, not by making the whole hairstyle longer, huge or bulky. The shoulders and upper arms must also be BEHIND the hair rather than drawn on top. Hands and lower forearms can emerge naturally at the side/lower margins. Legs, lower skirt edge and shoes remain visible below the hair where physically appropriate.
+
+Only change this rear hair layering and missing central locks. No garment redesign, no body change, no edits to front/profile hair. Same refined clean anime linework and soft shading. clean smooth texture, no grain, no noise, no tiling artifacts, no dirty texture, natural skin texture, high clarity, clean lighting. No new text or props.
+
+QA: The rear central hair now forms a continuous opaque silver-white curtain down to the hip/wrist level. It hides the rear torso, shoulders, upper arms, waist and upper mini skirt; the prior inverted-V opening is gone. Front and profile identity, outfit and poses visually preserved.
+
 Exact generation prompt:
 Use case: identity-preserve / stylized-concept.
 Asset type: kimi_fitness_view.png, refined ADULT Kimi FITNESS character turnaround.
@@ -37,4 +58,3 @@ clean lighting
 Intentional hair strands and a few fine garment motifs remain clear; smooth natural skin shading without dust, speckle, grunge, film grain or repeating artifacts.
 
 QA: Adult stature, cool rational expression, silver-white/icy-blue hair, gray-blue eyes, left temple accessory, K/music motifs, rear hair foreground coverage and smooth clean shading visually checked. The fitness costume uses coordinated navy training shoes.
-

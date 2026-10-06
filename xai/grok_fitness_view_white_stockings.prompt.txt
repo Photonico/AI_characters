@@ -1,0 +1,40 @@
+Generator: built-in image_gen
+Date: 2026-10-06
+Use case: precise-object-edit / identity-preserve
+Asset: ivory-white stockings variant of adult Grok fitness turnaround
+Only edit input: /Users/lu/Repos/AI_characters/xai/grok_fitness_view.png
+Input master SHA-256: dfcb98e042bf3363f6b9b4b179ff4c2910e17593fffbae1f4d81957bd75680f6
+Referenced image paths: ["/Users/lu/Repos/AI_characters/xai/grok_fitness_view.png"]
+Generated source: /Users/lu/.codex/generated_images/01a108a4-7d1c-7772-93bc-cf491f5d2c10/exec-df92a180-b8c8-4b71-b045-b53af5ea9bef.png
+Final project copy: /Users/lu/Repos/AI_characters/xai/grok_fitness_view_white_stockings.png
+Background: opaque white; transparent_background=false
+First generated image accepted after visual QA; no generation iteration.
+Original fitness master was not overwritten.
+
+Exact generation prompt:
+Use case: precise-object-edit / identity-preserve.
+Asset type: ivory-white stockings variant of an adult Grok full-body character turnaround.
+Input image 1 is the ONLY edit source, xai/grok_fitness_view.png. Keep this clearly adult, tall fictional Grok heiress aged 25 or older exactly as shown.
+
+CHANGE ONLY THE LEG CLOTHING:
+Add a matching pair of elegant IVORY WHITE THIGH-HIGH FASHION STOCKINGS on both legs. Each stocking runs continuously from the upper thigh down over the knee, calf and ankle, and into the existing shoe. The overall color is creamy milk-white / ivory. Use fine, soft, smooth, slightly translucent silky nylon hosiery, with a restrained delicate fabric sheen and natural leg contours visible subtly through the weave. They should read as refined adult fashion hosiery, not thick opaque cotton sports socks, plastic leggings or painted bare skin.
+
+At the top of EACH stocking, add a moderately wide, meticulously detailed OPENWORK LACE BAND. The lace combines intricate small floral and scrolling botanical motifs, a fine mesh ground, and a delicately scalloped edge. Keep it elegant and crisp, with detailed cutwork holes and clean small threads, not rough noise. Position the top of each stocking just below the existing mini-skirt hem so there is only a very small natural strip of skin between skirt and lace. The lace bands are completely readable below the hem without changing or lifting the skirt. The pattern wraps around each thigh consistently in front, profile and back, with correct curvature and no random pattern changes.
+
+Add one SEPARATE SLIM DECORATIVE LEG RING around each upper thigh, fitting gently without indenting or deforming the leg. These independent narrow bands coordinate with the ivory stockings and the black/gold/wine outfit, using a neat ivory base or restrained antique-gold trim with a tiny antique-gold Grok ring-and-diagonal-slash clasp and an extremely small wine-red knot detail. Keep each ring visually separate from the stocking's wide lace top, in the very small gap below the skirt, with clear narrow separation. No long garter straps, suspender straps, waist belts or extra chains. The bands and clasps match coherently across the three views.
+
+PRESERVE THE INPUT:
+Keep the adult body, stature, natural physique, limb shape, blue eyes, mischievous smug smile with small canine, golden twin ponytails, black bows, bat-wing hair ornaments, pointed ears, compact black/gold crown and all existing Grok symbols unchanged. Keep the existing black/deep-plum and wine-red sports top, complete mini-skirt with full hip coverage, gold borders and motifs, original shoes, empty hands and neutral standing poses exactly. Do not change the body, face, hair, outfit design or skirt length. Preserve complete garment coverage; no exposed intimate anatomy or underwear. No weapons, additional props or action pose.
+
+Same complete full-body FRONT / true LEFT-FACING SIDE PROFILE / BACK layout, identical figure placement, scale and height, white background and faint grounding shadows. All heads, ponytail ends and shoes fit within the existing frame. Keep the original refined 2D anime linework and soft clean shading. Render the hosiery and lace as coherent garments with correct front/side/rear continuity.
+clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting
+Preserve the fine intentional lace threads and holes while cleaning accidental noise. Only add the ivory stockings and their separate slim leg rings; everything else stays the same.
+
+Visual QA:
+- Both legs have ivory silky slightly translucent thigh-high stockings extending through the ankles into the existing shoes.
+- Wide delicate floral/scroll openwork lace tops and fine scalloped edges are visible below the mini-skirt in front, profile and back.
+- Separate slim upper-leg bands with tiny antique-gold Grok ring/slash ornaments and very small wine-red details remain distinct from the lace.
+- Small natural gaps below the unchanged skirt, relaxed ring fit and continuous stocking coverage; no suspender straps or extra chains.
+- Adult face, physique, hair, crown, black/gold/wine sports top and skirt, shoes, poses, framing and background preserved.
+- Clean texture and linework retain the intentional fine lace detail.
+

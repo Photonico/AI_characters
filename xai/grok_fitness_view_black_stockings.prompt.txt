@@ -1,0 +1,43 @@
+Grok adult fitness BLACK thigh-high stockings variant
+Date: 2026-10-06
+Mode: built-in image_gen.imagegen edit (not CLI; no Python image editing)
+Use case: precise-object-edit
+Edit target and sole generation reference: /Users/lu/Repos/AI_characters/xai/grok_fitness_view.png
+Original input / unchanged master SHA-256: dfcb98e042bf3363f6b9b4b179ff4c2910e17593fffbae1f4d81957bd75680f6
+transparent_background: false
+Generated source: /Users/lu/.codex/generated_images/01a108a5-0829-73b3-a929-58dbe2df7d5d/exec-e85446f1-cbb4-4399-ae3d-a088c22fa02f.png
+Saved destination: /Users/lu/Repos/AI_characters/xai/grok_fitness_view_black_stockings.png
+Source / saved image SHA-256: 11328ce4a7bf422e1418695fc09e6fc29c797059d276710795057e276e4218e6
+Image format and dimensions: PNG, 1536 x 1024, RGB, 8-bit, non-interlaced
+Iterations: one generation; no further image edit was necessary.
+
+QA observations:
+- Both legs wear fine deep-black subtly translucent mature women's thigh-high silk/nylon hosiery through ankles/feet into the existing shoes.
+- Stockings show smooth delicate sheen and original leg shading underneath, distinct from opaque athletic socks.
+- Wide intricate floral-and-scrollwork openwork black lace bands with scalloped fan edges are clearly visible below the skirt, with a small natural exposed-skin strip.
+- Each thigh has one separate slim black fashion leg ring with a tiny antique-gold Grok circle-slash clasp and an extremely small wine-red knot.
+- Three views have consistent wrapped band/ring positions, lace patterns and material; rings do not indent or alter leg anatomy.
+- Original face/blue eyes/fang smirk, body proportions, golden two ponytails, crown/accessories, intact sports-bra/mini-skirt and concealed lining, shoes, poses and white full-body three-view layout are visually retained.
+- Fine lace/hair/apparel detail remains clean; no grain or dirty texture, no weapons or props.
+- Generated source and saved copy are byte-identical as verified by SHA-256.
+- Master grok_fitness_view.png remains unchanged; only this new variant and its prompt record were created.
+
+Exact prompt submitted:
+Use case: precise-object-edit.
+Asset type: Grok BLACK STOCKINGS adult fashion variant, front / true left-facing side / back full-body neutral character turnaround.
+Input image 1 is the SOLE EDIT TARGET: xai/grok_fitness_view.png. This fictional Grok is a clearly adult woman aged 25 or older, a tall mature confident heiress with natural adult proportions.
+
+PRIMARY REQUEST: Add BLACK THIGH-HIGH SILK / NYLON STOCKINGS and one matching fine independent upper-leg ring to EACH leg. Modify ONLY this legwear. Preserve every other aspect of the input.
+
+BLACK STOCKINGS: Both legs wear deep BLACK mature women's thigh-high stockings that continue down over the calves, ankles and feet into the existing shoes. Use delicate smooth lightweight true hosiery with subtly translucent black silk/nylon material: naturally visible skin shading underneath a deep-black veil, tasteful smooth satin-like sheen and soft clean highlights following the original leg forms. They should read as elegant sheer adult stockings, NOT opaque athletic socks, leggings, hard armor or dark bare skin. Keep the original exact leg thickness, anatomy and silhouette.
+
+LACE TOPS: Each stocking has a wide finely intricate BLACK openwork floral-and-scrollwork lace band at the upper thigh, with layered tiny flowers, curling foliage/vines and an elegant scalloped fan-shaped edge. Make the complex lace visually clear and precise; skin shows through its delicate openwork holes. The bands sit very high on the thigh, leaving only a small natural strip of skin between the existing skirt hem and the stocking tops. They remain visibly below the skirt hem, with consistent band width and position around each thigh in all three views. Make a continuous physically wrapped lace pattern, rather than pasted flat lace squares or noisy speckles.
+
+INDEPENDENT LEG RINGS: Add one fine matching separate upper-leg ring around EACH upper thigh, resting neatly on the narrow exposed-skin strip just above the lace top, without squeezing or deforming the legs. Each ring is slim deep-black fashion trim with a tiny antique-gold Grok circle-and-diagonal-slash clasp and an extremely small wine-red knot accent, refined and compact. The ring is visibly distinct from the wide lace stocking-top band. Same position and coherent wrapped construction in front, profile and back. No long garter straps, waist belts, extra chains, dangling ornaments or bulky rings.
+
+STRICT INVARIANTS: Keep exactly the existing mature body, naturally full trained legs, softly toned arms and faint abdomen, face, blue eyes, smug fang smile, golden two ponytails, fringe and ahoge, pointed ears, black bows/bat-wing hair accents, black-gold crown, all Grok emblems, supportive low-V black/deep-plum sports bra with wine-red/gold edging, intact opaque mini-skirt with hidden lining and complete hip/buttock coverage, and the exact existing shoes. No visible underwear or intimate exposure. Do not alter any garment apart from adding stockings and independent leg rings. Do not modify the skirt's hem or panels, body shape, hair, expression, pose or framing. Both hands remain empty, no weapons or props.
+Keep the original full-body FRONT / strict TRUE LEFT-FACING SIDE / BACK neutral turnaround with the same figure locations, equal adult scale, shoe/head baselines and white background / faint soft shadows. All hair tips, hands and feet in frame. Do not introduce a suggestive pose or close-up. Preserve original polished anime linework, soft shading and palette.
+
+clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting
+Retain coherent fine lace detail, hair strands and apparel texture. The lace pattern and softly translucent hosiery must stay visible, never erased as noise. No text, labels, watermark or new objects.
+
