@@ -29,3 +29,29 @@ Strict visual QA:
 - Front / true left-facing side / back are full-body and consistently framed. Clean smooth surface without obvious grain or dirty/tiling artifacts.
 - Generated PNG copied without programmatic image editing. Original kimi_standard.png left unchanged.
 
+
+---
+Date: 2026-10-07
+Generator: built-in image_gen
+Mode: precise-object-edit, rear cloak occlusion correction
+Only edit reference: moonshot/kimi_mature_view.png (current waist-length-hair three-view sheet)
+Input SHA-256: 33986a7e78819575a4246f8909c659e8eab95734afd6b051d31a959b94a6e71d
+Generated source: /Users/lu/.codex/generated_images/01a0f38a-4479-7a03-8451-1b14d64193b2/exec-eada5a4d-20ed-4e2f-b5b7-4bb77f6780e4.png
+Output: moonshot/kimi_mature_view.png
+Dimensions: 1536 x 1024
+Final SHA-256: 83aa9463fc1d96ad18adb04d3ac0fd20fffe269049bd8f090d919d0565699305
+
+Exact edit prompt:
+
+Use case: precise-object-edit. Edit ONLY the RIGHTMOST BACK VIEW in this existing Kimi ordinary three-view sheet.
+Required fix: the front view shows her hands and white cuff fronts emerging through openings on the FRONT side of the navy cloak. Therefore from the BACK, the cloak must lie in front of those hands and cuff fronts and completely conceal them. In the rightmost back view, extend/reconstruct the EXISTING navy star-and-music-patterned cloak's rear side drapes naturally over BOTH currently visible white lower sleeve/cuff areas and BOTH hands. No hand, finger, palm, wrist skin or front-facing frilled cuff should remain visible from the back. Her arms and hands still exist in the same relaxed positions UNDER the cloak; do not amputate or change the pose. Continue the existing dark navy fabric and its folds from the side/back cloak into the lower drapes, with coherent moon/star/music details and natural cloth volume. Do not add detached patches, mittens, new sleeves or a new garment.
+Preserve the successful WAIST-LENGTH silver-white hair exactly as it is: a continuous opaque curtain in front of the back torso, no V/U gap, unchanged hair length, shape, color or volume. Rear layer order is camera -> hair over upper torso; camera -> cloak -> cuffs/hands at lower arm level.
+LOCK the entire LEFT FRONT and MIDDLE SIDE figures, including their visible hands: they must remain unchanged. Preserve the same clearly adult Kimi, calm face, anatomy, all costume design, head ornament, navy-white color palette, skirt, original shoes, full-body alignment, image dimensions/aspect ratio and white background. Only correct the cloak-versus-hand/cuff occlusion in the rear figure. Clean smooth texture, no grain, no noise, no tiling artifacts, no dirty texture, natural skin texture, high clarity, clean lighting. No added text or watermark.
+
+QA after correction:
+- In the rightmost BACK view, both hands, fingers, wrist skin and front-facing white cuffs are now fully concealed by the existing navy cloak.
+- Cloak side/rear drapes are continuous with natural folds and coherent music/star patterning, rather than detached cover patches.
+- Waist-length silver-white hair still forms a dense uninterrupted curtain over the back torso, without a V/U opening.
+- Front and side views retain their visible hands and ordinary costume; full-body framing and character proportions visually retained.
+- Clean smooth image with no obvious grain, dirty texture or tiling artifacts.
+- Saved generated PNG bytes directly, without programmatic image alteration; generation-source and saved-output SHA-256 verified equal.

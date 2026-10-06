@@ -1,0 +1,40 @@
+Generator: built-in image_gen
+Mode: NEW adult fitness three-view generation from original Kimi reference, followed by a targeted rear-hair layering correction
+Original identity reference: moonshot/kimi_standard.png
+Output: moonshot/kimi_fitness_view.png
+Initial generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-40fc52e6-5e81-4607-8b8a-e8c171988d86.png
+Final generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-f6f154d2-5009-4be3-9448-96d9eced0efb.png
+No earlier deleted Kimi sheet was used as a reference.
+
+Exact initial generation prompt:
+
+Create a NEW adult Kimi FITNESS three-view character sheet from the provided ORIGINAL character reference. Exactly three complete full-body views on white: FRONT, true LEFT-facing SIDE, BACK. Same scale, aligned head/feet, neutral relaxed standing, empty hands. The woman is age 25+, tall and naturally athletic, approximately 7.5 adult heads, softly trained fuller thighs/calves and faint abs, normal shoulders and hips. Cool, rational, aloof aristocratic expression, gray-blue eyes, composed closed lips.
+
+HIGHEST PRIORITY: A SHORTER, CORRECTLY LAYERED HAIRSTYLE.
+Silver-white hair with icy-blue inner shading and original parted fringe. All main long locks fall DOWN HER BACK. Only small face-framing strands fall forward, ending at collarbones. Hair is WAIST-LENGTH, ending at the natural waist/just the upper hips in ALL THREE views, above the hands. Soft restrained waves and small tapered tips, not an enormous curl cloud. Nothing reaches thighs, wrists or knees.
+
+BACK VIEW: show one continuous, dense, opaque curtain of real hair from the back of the head over the entire shoulder blades, shoulders, upper arms and CENTRAL BACK down to the waist. Viewer -> HAIR -> TORSO/CLOTHES. The main hair is physically behind the body and therefore in FRONT of the body when the camera sees her from behind. From nape to natural waist, the rear torso is completely HIDDEN BY HAIR. Fill the center with overlapping long silver locks: no V/U cutout, no visible rear bra panel or back skin through the main hair, no central section routed around the front of her torso, no arms/clothing painted in front of the long hair. It is correct that the rear costume is hidden above the hair ends. Below the waist-length hair, the mini skirt is naturally visible; lower forearms and hands emerge below/beside the hair. A compact coherent hair silhouette with believable strand overlap, not wider or longer hair added to disguise the layer error. The FRONT and SIDE must depict this same waist-length hair falling behind the body.
+
+Preserve original Kimi identity: silver-white/icy-blue hair, gray-blue eyes, neat white ruffled headband, compact LEFT-temple navy bow with silver crescent, dark triangle/prism and tiny rainbow ray, silver K and short music-note charm. Adult refined facial proportions. No animal features.
+
+An attractive complete fitness outfit: opaque supportive ivory/navy sports Bra with graceful V neckline, silver piping, navy underbust band and small K chest badge; exposed subtly toned midriff, bare arms/shoulders. Very short but fully covering navy athletic mini skirt with ivory/silver edge and discreet crescent/music-staff motif, concealed opaque sports lining. Compact navy/ivory training shoes. Keep navy, ivory, icy lavender and silver, rainbow only tiny head detail. Remove the original sleeves, long skirts, corset, shoulder drapes, waist chains, hanging tablet and flute. No props or text.
+
+Polished fine-line anime illustration with clear smooth soft shading. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting. All hair tips, hands and shoes in frame.
+
+Exact targeted rear-hair correction prompt:
+
+Edit this adult Kimi fitness character reference sheet. Preserve the entire FRONT and SIDE characters and the layout, outfit, face, body, colors, waist-length hair and clean rendering. Make one precise correction ONLY to the rightmost BACK view.
+
+The central silver-white hair curtain already correctly covers the entire back from the nape to natural waist. Keep it. Re-route the EXISTING OUTER silver hair locks so they lie in front of both shoulder caps and the backs of the UPPER ARMS in this rear view. Those currently visible bare shoulder caps and the upper-arm skin between shoulders and just above elbows must instead be covered by opaque silver-white hair with icy-blue underlayers. Gently spread the existing side locks laterally to cover this area, without increasing length or adding a large cloud of hair. The continuous main curtain must visibly rest on top of the rear upper body and arms: CAMERA -> HAIR -> SHOULDERS / UPPER ARMS / TORSO. Lower forearms and hands below the elbows can remain naturally visible beside the skirt. No arm or shoulder silhouette cuts in front of these outer long hair locks. No central hair opening or visible rear bra panel. Waist-length ends remain at the waist/upper hips, well above hands, same length in front/side/back.
+
+Maintain the mature age 25+ adult woman, calm aloof rational expression, naturally athletic proportions, supportive opaque ivory/navy sports bra, short fully covering navy athletic skirt, navy/ivory trainers, source headpiece and hair identity. White background, exactly three complete full-body views, no props or text.
+
+clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
+
+Visual QA:
+- Hair length is at the waist/upper hips in all three views.
+- Rear hair continuously covers the central torso from the nape to the waist.
+- The rear outer locks cover shoulder caps and upper arms; lower forearms and hands remain visible.
+- Front/side adult identity, navy/ivory sports outfit and natural athletic proportions are retained.
+- Clean smooth illustration, no obvious grain, noise or dirty tiling artifacts.
+
