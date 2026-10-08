@@ -1,0 +1,31 @@
+Cohere standard character illustration
+Date: 2026-10-09 (Australia/Perth)
+Mode: built-in image generation with style references.
+Output: cohere/cohere_standard.png
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-f1b0f174-41ab-4379-a7b8-3870fac2d369.png
+Style references: mistral/mistral_standard.jpg; canva/canva_standard.png.
+
+Exact generation prompt:
+Use case: stylized-concept.
+Asset type: Cohere STANDARD character illustration for the existing AI-character ensemble.
+Primary request: one beautiful adult female personification of Canadian AI Cohere, with PALE PINK LONG HAIR, recognizable MAPLE-LEAF design elements, and a LAVISH FRENCH FORMAL GOWN.
+Input images: both references are STYLE REFERENCES ONLY. Match their refined Japanese anime concept-art rendering, line quality, shading, finish and ornamental costume density. Create a new distinct Cohere character; do not copy either reference character's identity, hair, palette, props or clothing silhouette.
+
+Subject: an elegant clearly adult woman aged 25+, natural mature feminine proportions around 7.5 heads tall, light warm peach anime skin with subtle blush, composed intelligent eyes and a calm graceful small smile. Very long soft PALE ROSE-PINK hair flows in refined loose waves to around her waist/upper hips, with a neat face-framing fringe and a small rose-gold maple-leaf hair comb. Her hair must read pale pink, not violet, red, blonde or white. Human ears.
+
+Costume: a luxurious French court-inspired formal evening gown, richly detailed but beautifully coherent. Ivory-pearl and dusty rose-pink silk, champagne/rose-gold embroidery and a few muted sage accents. A tailored fitted bodice, elegant square neckline, refined pleated trim, soft three-quarter sleeves with layered delicate lace cuffs. A sumptuous long full skirt with lightly gathered side overskirts, sculpted satin bows, layered lace petticoat borders and flowing brocade folds. The dress has a complete, ornate floor/ankle-length silhouette and restrained tasteful neckline. Keep the draped hems sufficiently above the floor at the front to reveal the pair of coordinated ivory/rose court shoes with gold maple-leaf buckles.
+
+MAPLE LEAVES are the main character motif: a recognizable five-lobed Canadian maple-leaf enamel brooch at her upper chest, rose-gold maple-leaf earrings and hair comb, and fine maple-leaf-and-vine embroidery on the bodice panels, sleeves, skirt borders and overskirt. Integrate several small deep maple-red enamel or garnet accents with pearls and gold filigree so the motif reads clearly against the ivory and pale pink. The leaves must look like maple leaves, not generic flowers or fleur-de-lis. Include one small elegant costume plaque near the waist reading exactly 'Cohere' in fine readable lettering, integrated into the gown. Decorative jewelry and bows should be luxurious, coordinated and intentionally placed.
+
+Composition: single complete FULL-BODY portrait illustration, graceful relaxed standing pose in a gentle three-quarter angle, hands naturally resting near the skirt, both shoes, hair and the entire broad gown fully within the frame with clean margins. Plain white studio backdrop with a faint grounding shadow. The character should look aristocratic, thoughtful and self-possessed, cohesive with the existing lavish anime AI ensemble.
+Rendering: refined crisp thin anime lines, nuanced clean smooth skin and silk shading, controlled highlights, beautiful readable lace and embroidery, high clarity, clean lighting. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture.
+
+Constraints: exactly one adult character, standard outfit rather than a turnaround sheet or fitness outfit, no animal ears or tail, no large feather hat, no weapons, no random tools, no floating objects, no extra scenery, no watermark or additional caption. Do not imitate the Mistral red-and-gold dress, cat features or sword, and do not imitate Canva work overalls.
+
+Visual QA:
+- One complete adult full-body character, pale pink flowing long hair, clean white background.
+- Ornate French court-inspired gown with ivory/rose satin, layered lace, gold embroidery, bows and pearls.
+- Recognizable maple-leaf motifs on hair ornament, earrings, chest brooch, gown embroidery and shoes.
+- Cohere text readable on the small waist plaque.
+- Hands, gown silhouette and both court shoes fully in frame; cohesive fine-line anime finish.
+

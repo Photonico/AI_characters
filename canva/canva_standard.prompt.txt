@@ -1,0 +1,55 @@
+Generator: built-in image_gen
+Mode: generate, style-reference-guided standard character illustration
+Use case: stylized-concept
+Output: canva/canva_standard.png
+Style references: minimax/minimax_standard.jpg and mistral/mistral_standard.jpg
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-d36cc01e-c655-4ded-909a-6ec711aa7a62.png
+
+Exact generation prompt:
+
+Use case: stylized-concept.
+Asset type: Canva STANDARD character illustration for the AI_characters project.
+
+Create ONE original adult female personification of CANVA in the same polished anime illustration style as the two reference images. The references are STYLE references only: fine elegant linework, richly detailed clothing, softly shaded colors and a clean white full-body character composition. Do not copy either character's identity, species features, outfit or props.
+
+Character: a clearly adult woman aged 25+, naturally healthy feminine proportions, about 7.5 adult heads tall. Warm healthy lightly sun-kissed tan skin, vivid TURQUOISE-TEAL eyes, and a distinctive VIOLET BOB haircut. Hair is chin-length, neat but lively with a little soft volume and an elegant side-swept fringe; deep violet body with delicate lavender highlights. Hair must stay a short bob, never long hair or twintails. Human ears. An approachable, clever, confident creative professional with a warm small smile and bright attentive eyes.
+
+Costume — LAVISH BLUE-COLLAR ARTIST / CRAFTSWOMAN WORKWEAR: beautifully tailored indigo-blue canvas/twill bib overalls over an ivory collared shirt with sleeves rolled neatly to the elbows. Functional adult work clothing, proper trousers and durable construction. Add turquoise and violet fabric panels, beautifully embroidered flowing brushstroke seams, refined gold/brass fasteners and rivets, thoughtful visible topstitching and finely finished cuffs. A short indigo/turquoise waist tool apron integrates with the overalls. This must read as an elaborate, attractive professional artisan uniform, with the luxury in the materials and detailing. The fabric folds and seams remain practical and believable.
+Several REAL DEEP POCKETS on the bib, apron and hips hold a clearly readable selection of PAINTBRUSHES: long and short wooden handles, round brush tips, flat broad brush tips and a small fan brush, plus a couple of neat drawing pencils. Tools are visibly tucked inside individual pockets, supported at the correct height, not floating or fused with hands. Arrange the brushes coherently so the silhouette remains tidy. One small enamel teal-to-violet badge reading exactly “Canva” in elegant white lettering sits on the bib; no large caption.
+Wear sturdy stylish indigo/ivory lace-up work shoes with teal accents and subtle brass details. Ordinary complete clothing, not sportswear, a corset or a royal gown.
+
+Pose and framing: single complete FULL-BODY standing character in a portrait composition, gentle three-quarter angle, open confident stance, one hand lightly resting at the hip and the other relaxed. The pocket brushes are clearly visible. All hair tips, hands, trouser legs and shoes fit within the frame with clean margins. White studio background with only a faint grounding shadow. No additional people, no turnaround views, no scenery or interface panel.
+
+Rendering: the same detailed anime concept-art finish as the style references, beautiful crisp thin lines, nuanced smooth skin shading, natural canvas folds and polished small hardware, high clarity. Keep healthy warm skin color under clean lighting. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
+
+Visual QA:
+- One full-body adult character, complete hair, hands, trousers and shoes in frame.
+- Turquoise-teal eyes, healthy warm tan skin and short violet bob.
+- Elaborate blue-collar artist workwear: indigo overalls, rolled-sleeve shirt, detailed seams, teal/violet panels, brass hardware and practical work shoes.
+- Real bib, hip and thigh pockets hold assorted round, flat and fan brushes and drawing tools.
+- Clean fine-line anime rendering, soft detailed shading, white background and correct Canva badge.
+
+Revision 2026-10-09 — slightly fairer skin and more lavish artist workwear
+Mode: built-in image generation / referenced-image edit.
+Primary reference: canva/canva_standard.png (previous version).
+Style-only references: minimax/minimax_standard.jpg; mistral/mistral_standard.jpg.
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-4ac0ea72-5828-48e5-8cda-10ee7efe97ec.png
+
+Exact revision prompt:
+Revise the FIRST reference image, the adult Canva character standard illustration. The other two images are STYLE AND COSTUME-DETAIL REFERENCES ONLY for the cohesive lavish anime design language of this existing AI-character ensemble; do not borrow their identity, hair, outfit silhouette or props.
+
+Two requested changes:
+1. Skin: make all exposed skin slightly fairer, a light warm peach anime complexion retaining healthy warmth, delicate blush and dimensional smooth shading. A modest natural lightening from the original tan skin, never chalk-white. Keep the exact facial identity, bright turquoise-teal irises, approachable confident smile and adult features.
+2. Costume: make her noticeably more lavish and ornamented so that she belongs beside the elaborately costumed AI characters in the style references, while retaining an unmistakable BLUE-COLLAR ARTIST / CRAFTSWOMAN identity. Keep her indigo bib-overall work trousers, ivory collared rolled-sleeve shirt, integrated practical waist tool apron, and sturdy work boots. Upgrade the existing clothing, rather than replacing the outfit with another character's outfit. Add elegant, clearly visible fine GOLD embroidery in flowing brushstroke and curling vine motifs on the bib, pocket borders, turquoise/violet side panels and cuffs. Refine the flowing teal/violet brushstroke insets into beautiful woven ornament with clean boundaries, rather than random dirty paint splashes. Enrich the ivory collar and rolled cuff edges with a narrow embroidered scalloped trim, delicate pleated accents and small tasteful enamel buttons. Add filigree brass overall buckles and pocket fasteners with a few turquoise and violet gemstone insets. Refine the waist tool apron and existing draped side scarf into short layered teal/violet brocade panels with fine gold edging; leave the trousers fully visible. Use a tasteful belt buckle and a few short delicate chains bearing small artist-tool charms. Upgrade the existing earrings and pendant to complement these ornaments, and add one small elegant gold-and-turquoise brush-shaped hairclip, with the violet bob fully visible. Let the decoration form a coherent luxurious artisan uniform, clear hierarchy and readable silhouette.
+
+Preserve the exact VIOLET short BOB haircut and length, teal eyes, adult woman aged 25+ with the same figure, body proportions, expression, pose, full-body portrait composition, white backdrop, single person, and clean margins. Preserve the existing Canva round teal-to-violet badge with exact white script text 'Canva'. Every original tool pocket must remain functional and visible, containing recognizable assorted round, flat and fan PAINTBRUSHES plus pencils; the tool handles and brush tips are neatly arranged, not floating. Keep the raised hand holding the paintbrush, the other hand at the hip, the relaxed crossed-ankle stance, and the entire shoes visible. Preserve the original indigo/ivory/teal/violet palette with warm gold accents and the character's human ears. Keep the light fabric folds and tailored durable construction. Do not add animal ears or tails, weapons, oversized luggage, new background scenery or extra characters.
+
+Rendering: cohesive polished Japanese anime character concept art, refined thin lines and clean smooth shading matching the ensemble. Clear fabric shapes and crisp fine embroidery, no photographic gritty denim grain. clean smooth texture, no grain, no noise, no tiling artifacts, no dirty texture, natural skin texture, high clarity, clean lighting.
+
+Visual QA:
+- Exposed skin is lighter warm peach with blush and smooth shading.
+- Turquoise-teal eyes, short violet bob, facial identity and full-body pose preserved.
+- Gold embroidery, jeweled brass fasteners, refined brocade side apron/scarf and artist charms make the workwear more lavish.
+- Indigo bib overalls, ivory rolled-sleeve shirt, recognizable paintbrush pockets, handheld brush, work boots and Canva badge preserved.
+- One complete adult character on a clean white background.
+
