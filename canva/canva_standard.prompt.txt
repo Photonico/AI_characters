@@ -53,3 +53,37 @@ Visual QA:
 - Indigo bib overalls, ivory rolled-sleeve shirt, recognizable paintbrush pockets, handheld brush, work boots and Canva badge preserved.
 - One complete adult character on a clean white background.
 
+
+Revision 2026-10-09 — lavish Australian tomboy artist
+Generator: built-in image_gen
+Mode: referenced-image edit / identity-preserve
+Edit target: canva/canva_standard.png, previous lavish-overall version
+Generated source: /Users/lu/.codex/generated_images/01a11c73-b192-7d63-bc38-75ee038b4ff4/exec-2f8b013e-2926-4233-bd89-2adc62249647.png
+
+Exact revision prompt:
+Use case: identity-preserve / stylized-concept.
+Asset type: revised Canva STANDARD full-body character illustration.
+Input image: EDIT TARGET. Redesign her styling while preserving her recognizable adult identity, exact light warm peach complexion, violet-purple hair color, turquoise-teal eyes and polished anime rendering.
+
+Primary request: make Canva a LAVISH AUSTRALIAN TOMBOY. She is clearly an adult woman aged 25+, a self-assured, quick-witted and capable artist/craftswoman, with a relaxed confident small smile. Her appeal is handsome, spirited and practical. Keep the short violet bob, refine it into a lightly tousled side-swept bob with a clean lively silhouette. Keep her healthy light warm skin tone and natural blush exactly as in the reference. No darkening or bleaching.
+
+Costume: an integrated luxury blue-collar artist uniform, clean and coherent, with the elegance of the other elaborate anime AI characters. Keep the rich indigo bib-overall/work-trouser silhouette, but tailor it into a striking tomboy design: confident shoulders, tidy rolled ivory shirt sleeves, a fitted high-quality indigo bib/waist, long tapered practical trousers, substantial polished ivory-indigo-teal lace-up work boots with flat sturdy soles. All garments should look expensive and beautifully made. Teal and violet fabric accents, precise gold/brass hardware and tasteful small enamel/gem insets. Replace the previous cascading side scarves, long draped chains and scattered dangling charms with a much neater structured tool belt and functional pockets. Use ornament as integrated fine gold embroidery, beautiful topstitching, short tailored panels and sculpted brass buckles, not loose decorative clutter. No skirt, gown, corset, heels or floppy ribbons.
+
+Australian motifs: elegantly recognizable GOLDEN WATTLE flower sprays and EUCALYPTUS leaf embroidery integrated into the indigo bib, pocket borders and outer trouser panels. A small tasteful SOUTHERN CROSS star motif on a cuff or shoulder tab. These elements must feel intentionally designed, not random stickers, huge flags or tourist souvenirs.
+
+Hair accessory: replace her existing small brush-like hairclip with one clearly visible refined SULPHUR-CRESTED COCKATOO FEATHER HAIRCLIP at the temple: a compact elegant cluster of soft WHITE feathers and two or three slender bright YELLOW crest feathers, mounted in a small gold/teal clasp. It is a feather ornament attached to her hair, not a living bird, not bird wings, not animal ears. Her bob remains fully visible.
+
+Artist identity: preserve the readable round teal-to-violet chest badge with exact white script 'Canva'. Functional bib, belt and thigh pockets contain clearly distinguishable assorted wooden-handled round, flat and fan PAINTBRUSHES and drawing pencils. Tools neatly seated in pockets, no floating tools. One hand confidently rests at her hip and the other holds one paintbrush; natural correct hands. Keep her adult proportions and healthy build, emphasize a purposeful, self-assured tomboy stance with feet more solidly planted and relaxed rather than a dainty crossed-ankle pose.
+
+Composition: ONE complete full-body adult woman, portrait layout, slight three-quarter front view, all hair, hands, shoes visible with clean margins. White studio background and subtle grounding shadow, matching the original set. No extra people, scenery, turnaround panels, weapon, backpack, animal tail or animal ears.
+
+Rendering: refined high-end anime concept illustration, fine crisp elegant linework, rich coherent indigo/ivory/teal/violet/gold palette, smooth nuanced skin shading, clean fabric folds and precise beautiful embroidery. Preserve exact original skin and hair color. clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
+
+Visual QA:
+- Light warm peach skin, violet-purple short bob, turquoise-teal eyes and adult facial identity preserved.
+- Relaxed confident tomboy presentation, complete long work trousers and practical substantial boots; feet now planted.
+- Long cascading side scarves and dangling chains removed; functional tool belt and neat artist pockets retained.
+- White cockatoo feathers with yellow crest plumes in the temple hairclip.
+- Golden wattle blossoms, eucalyptus leaf embroidery and a Southern Cross sleeve detail integrate Australian motifs.
+- Canva chest badge, multiple assorted brush pockets and handheld brush preserved.
+- Complete single full-body adult character, fine-line anime finish, clean smooth shading and white background.

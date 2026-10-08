@@ -1,0 +1,59 @@
+Cohere standard — brand color revision
+Date: 2026-10-09 (Australia/Perth)
+Mode: built-in image generation / referenced-image edit.
+Output: cohere/cohere_standard.png
+Reference / earlier version: cohere/cohere_standard_test.png
+Earlier prompt companion: cohere/cohere_standard_test.prompt.txt
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-d035fb30-045f-4d05-b242-3c31d79afd0f.png
+Requested hair base color: #D18EE2 (sRGB 209, 142, 226)
+Requested costume accent base color: #FF7759 (sRGB 255, 119, 89)
+
+Exact revision prompt:
+Use case: identity-preserve color revision.
+Edit the supplied Cohere standard full-body anime illustration. Preserve its complete character design and composition; change only the requested hair and costume accent colors.
+
+HAIR: recolor the entire long hairstyle to the requested brand base color #D18EE2 (sRGB 209, 142, 226), a luminous lilac-pink / orchid-lavender. Use this exact color as the dominant local hair midtone under neutral white lighting, with naturally lighter highlights and slightly deeper violet shadows in the same hue family. The hair must visibly read lavender-pink rather than the previous salmon rose-pink. Keep every wave, strand silhouette, length, fringe, hair ornament, face, eyes, expression, skin and body unchanged.
+
+COSTUME ACCENTS: introduce a clearly recognizable second brand base color #FF7759 (sRGB 255, 119, 89), warm vivid coral-orange. Apply this color coherently to the gown's existing large satin bows and their ribbon tails at the waist and skirt sides, smaller sleeve bows, maple-leaf embroidery and enamel brooch details, and selected fine trim or gemstone accents. The coral-orange must be visible at normal viewing size, not reduced to one tiny ornament. Replace the old dark burgundy/red color in those selected accent elements with this coral-orange. Keep the main ivory-pearl and soft dusty-rose gown fabric, champagne-gold filigree, pearl chains and white lace intact, giving the new lavender hair and coral accents a balanced luxurious composition. Preserve readable recognizable maple-leaf shapes and every existing decorative placement.
+
+LOCKED INVARIANTS: the same adult woman, exact face and eye color, healthy fair warm skin, pose and hands, full-body framing, ornate French court gown silhouette, neckline, sleeves, layered lace and skirt folds, golden filigree, pearls, waist plaque reading exactly 'Cohere', shoes, hair waves and length, clean white background and faint grounding shadow. Do not add or remove accessories or redesign the dress. Retain the exact fine-line polished anime rendering.
+Clean smooth texture; no grain; no noise; no tiling artifacts; no dirty texture; natural skin texture; high clarity; clean lighting.
+
+Visual QA:
+- Long hair visibly recolored lilac-pink; natural highlights and deeper violet shadows retained.
+- Coral-orange clearly appears in waist, sleeve and skirt bows, ribbons, maple leaves and decorative details.
+- Face, eyes, fair warm skin, pose, hands, hair silhouette, French gown construction, lace, pearls, ivory/rose base fabric and gold embroidery preserved.
+- Cohere plaque remains readable; one complete adult full-body character on a clean white background.
+- Both court shoes and full skirt remain inside the frame.
+
+Revision 2026-10-09 — pinker hair, coordinated gown palette, clean finish
+Mode: built-in image generation / referenced-image edit.
+Reference: cohere/cohere_standard.png (brand-color revision).
+Generated source: /Users/lu/.codex/generated_images/01a0f388-9149-7ba0-9120-2aaac770fec8/exec-de345826-1162-442f-81f0-2a90903bcb36.png
+
+Exact revision prompt:
+Edit this existing adult Cohere full-body anime illustration with a focused palette-and-finish refinement. Preserve her identity, exact face and eye color, body, pose and hands, long wavy hairstyle silhouette and length, maple-leaf motifs, lavish French court gown design, all lace, gold embroidery, bows, pearls, accessories, shoes, white background and framing. The small waist plaque must still read exactly 'Cohere'.
+
+Hair: make the current #D18EE2-based lavender-pink hair subtly WARMER AND PINKER. It should read soft orchid-rose pink with a gentle lilac undertone, rather than distinctly violet. Use a slightly rosier midtone around #DF9BDA, with delicate rosy highlights and the original #D18EE2 hue family retained in soft deeper shading. This is a modest hue refinement, not a return to the old salmon/coral hair. Keep the curls, highlights, clean strand shapes and all features consistent.
+
+Gown color harmony: gently shift the existing dusty-pink outer skirt and side satin panels toward soft blush-rose with a subtle orchid-pink undertone, coordinating with the warmer pink hair. Keep ivory lace and the ivory main dress panels clean and pale, and retain champagne-gold filigree and pearls. Preserve #FF7759 CORAL-ORANGE as the clearly visible accent color in the existing waist and sleeve bows, ribbon tails, maple-leaf embroidery, enamel jewelry and shoe details. Balance those coral accents against the rose/blush fabrics so the entire palette feels harmonious and refined. Do not make the whole gown uniformly pink, purple or orange, and do not reduce the visibility of the coral-orange signature accents.
+
+Finish: improve clarity with impeccably clean smooth anime rendering, precise thin linework, coherent elegant silk folds, crisp readable maple leaves, fine lace and embroidery. Remove residual grain, noise, muddy or dirty texture, patchiness and tiling artifacts while retaining intentional fabric folds and decorative patterns. Keep skin softly shaded, healthy and natural, never waxy or over-smoothed. High-definition polished character art, clean neutral studio lighting, accurate edges without harsh oversharpening.
+clean smooth texture
+no grain
+no noise
+no tiling artifacts
+no dirty texture
+natural skin texture
+high clarity
+clean lighting
+
+No new accessories or objects, no changed costume silhouette, no altered expression or pose, no anatomical changes, no cropped hair, skirt, hands or shoes.
+
+Visual QA:
+- Hair is visibly warmer orchid-rose pink with a gentle lilac undertone.
+- Rose/blush gown fabrics coordinate with the hair; coral-orange bows, ribbons and maple details remain clearly visible.
+- Fine linework, smooth skin and silk shading, clean ivory lace, readable embroidery; no obvious grain, noise or dirty texture.
+- Character identity, expression, full-body pose, hand positions, hairstyle, French gown silhouette and Cohere plaque preserved.
+- Entire skirt and both shoes remain inside the frame.
+
